@@ -1,0 +1,1530 @@
+d_codigo,d_asenta,d_tipo_asenta,D_mnpio,d_estado,d_ciudad,d_CP,c_estado,c_oficina,c_CP,c_tipo_asenta,c_mnpio,id_asenta_cpcons,d_zona,c_cve_ciudad
+1000,San Ángel,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,1,Urbano,1.0
+1010,Los Alpes,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,5,Urbano,1.0
+1020,Guadalupe Inn,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,6,Urbano,1.0
+1030,Axotla,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,28,10,9,Urbano,1.0
+1030,Florida,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,10,Urbano,1.0
+1040,Campestre,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,12,Urbano,1.0
+1049,Tlacopac,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,28,10,14,Urbano,1.0
+1050,Ex-Hacienda de Guadalupe Chimalistac,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,16,Urbano,1.0
+1060,Altavista,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,17,Urbano,1.0
+1060,San Ángel Inn,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,18,Urbano,1.0
+1070,Chimalistac,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,19,Urbano,1.0
+1080,Progreso Tizapan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,22,Urbano,1.0
+1089,Ermita Tizapan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,24,Urbano,1.0
+1090,La Otra Banda,Barrio,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,2,10,25,Urbano,1.0
+1090,Loreto,Barrio,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,2,10,26,Urbano,1.0
+1090,Tizapan,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,28,10,28,Urbano,1.0
+1100,Pólvora,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,31,Urbano,1.0
+1109,La Conchita,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,33,Urbano,1.0
+1110,Belém de las Flores,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,34,Urbano,1.0
+1110,El Capulín,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,36,Urbano,1.0
+1110,Ampliación El Capulín,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,37,Urbano,1.0
+1110,Liberales de 1857,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,39,Urbano,1.0
+1120,Acueducto,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,42,Urbano,1.0
+1120,Cove,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,44,Urbano,1.0
+1120,Hidalgo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,46,Urbano,1.0
+1120,Las Américas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,47,Urbano,1.0
+1125,Ampliación Acueducto,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,43,Urbano,1.0
+1130,Paraíso,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,52,Urbano,1.0
+1130,Molino de Santo Domingo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,53,Urbano,1.0
+1130,Real del Monte,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,56,Urbano,1.0
+1139,Reacomodo Pino Suárez,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,58,Urbano,1.0
+1140,Bellavista,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,59,Urbano,1.0
+1140,José Maria Pino Suárez,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,60,Urbano,1.0
+1150,Cristo Rey,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,63,Urbano,1.0
+1150,Tolteca,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,64,Urbano,1.0
+1160,Bosque,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,66,Urbano,1.0
+1160,Isidro Fabela,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,67,Urbano,1.0
+1160,Maria G. de García Ruiz,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,68,Urbano,1.0
+1160,1a Victoria,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,69,Urbano,1.0
+1170,Abraham M. González,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,74,Urbano,1.0
+1180,Carola,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,76,Urbano,1.0
+1180,8 de Agosto,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,77,Urbano,1.0
+1180,San Pedro de los Pinos,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1131,9,1131,,9,10,78,Urbano,1.0
+1200,Arturo Martínez,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,79,Urbano,1.0
+1210,Santa Fe,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,28,10,82,Urbano,1.0
+1219,Lomas de Santa Fe,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,84,Urbano,1.0
+1220,La Estrella,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2681,Urbano,1.0
+1220,Bonanza,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,85,Urbano,1.0
+1220,Cuevitas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,86,Urbano,1.0
+1220,El Cuernito,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,87,Urbano,1.0
+1220,Mártires de Tacubaya,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,89,Urbano,1.0
+1220,Zenón Delgado,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,90,Urbano,1.0
+1230,Campo de Tiro los Gamitos,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,92,Urbano,1.0
+1230,Los Gamitos,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,97,Urbano,1.0
+1230,Tlapechico,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,98,Urbano,1.0
+1230,El Piru Santa Fe,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,132,Urbano,1.0
+1230,El Piru 2a Ampliación,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,224,Urbano,1.0
+1239,La Huerta,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,102,Urbano,1.0
+1240,Pueblo Nuevo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,103,Urbano,1.0
+1250,El Árbol,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,104,Urbano,1.0
+1250,Ladera,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,105,Urbano,1.0
+1250,Lomas de Nuevo México,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,106,Urbano,1.0
+1250,Margarita Maza de Juárez,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,107,Urbano,1.0
+1250,Tecolalco,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,108,Urbano,1.0
+1259,Ampliación La Cebada,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,109,Urbano,1.0
+1259,La Mexicana 2a Ampliación,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2845,Urbano,1.0
+1260,Calzada Jalalpa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,110,Urbano,1.0
+1260,La Mexicana,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,112,Urbano,1.0
+1260,Ampliación La Mexicana,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,113,Urbano,1.0
+1260,La Palmita,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,114,Urbano,1.0
+1260,Liberación Proletaria,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,115,Urbano,1.0
+1269,1a Sección Cañada,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,117,Urbano,1.0
+1269,2a Sección Cañada,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,118,Urbano,1.0
+1270,El Tejocote,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,120,Urbano,1.0
+1270,La Presa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,121,Urbano,1.0
+1270,Golondrinas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,123,Urbano,1.0
+1270,Golondrinas 1a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,124,Urbano,1.0
+1270,Golondrinas 2a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,125,Urbano,1.0
+1270,Lomas de Capula,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,127,Urbano,1.0
+1275,Villa Solidaridad,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,131,Urbano,1.0
+1276,El Pirul,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,93,Urbano,1.0
+1278,Desarrollo Urbano,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,133,Urbano,1.0
+1279,Lomas de Becerra,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,136,Urbano,1.0
+1280,Arvide,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,138,Urbano,1.0
+1280,El Pocito,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,139,Urbano,1.0
+1280,Francisco Villa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,140,Urbano,1.0
+1280,La Joya,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,141,Urbano,1.0
+1285,El Rodeo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,144,Urbano,1.0
+1289,Reacomodo El Cuernito,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,146,Urbano,1.0
+1290,Piloto Adolfo López Mateos,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,147,Urbano,1.0
+1290,Presidentes,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,148,Urbano,1.0
+1296,Jalalpa Tepito 2a Ampliación,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,152,Urbano,1.0
+1296,Ampliación Jalalpa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,153,Urbano,1.0
+1296,Jalalpa Tepito,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,154,Urbano,1.0
+1298,Ampliación Piloto Adolfo López Mateos,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,156,Urbano,1.0
+1299,1a Ampliación Presidentes,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,160,Urbano,1.0
+1299,2a Ampliación Presidentes,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,161,Urbano,1.0
+1310,San Gabriel,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,163,Urbano,1.0
+1320,Carlos A. Madrazo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,164,Urbano,1.0
+1330,Paseo de las Lomas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,168,Urbano,1.0
+1340,Bejero del Pueblo Santa Fe,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,170,Urbano,1.0
+1376,Santa Fe,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,171,Urbano,1.0
+1376,Santa Fe Peña Blanca,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2682,Urbano,1.0
+1376,Santa Fe La Loma,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2683,Urbano,1.0
+1376,Santa Fe Centro Ciudad,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2864,Urbano,1.0
+1377,Jalalpa El Grande,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,172,Urbano,1.0
+1389,Santa Fe Tlayapaca,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,176,Urbano,1.0
+1400,Olivar del Conde 1a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,181,Urbano,1.0
+1400,Preconcreto,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,184,Urbano,1.0
+1407,Galeana,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,187,Urbano,1.0
+1408,Olivar del Conde 2a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,188,Urbano,1.0
+1410,Barrio Norte,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,193,Urbano,1.0
+1410,Palmas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,194,Urbano,1.0
+1419,Minas Cristo Rey,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,195,Urbano,1.0
+1420,Sacramento,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,196,Urbano,1.0
+1420,Santa María Nonoalco,Barrio,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,2,10,197,Urbano,1.0
+1430,Colina del Sur,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,198,Urbano,1.0
+1450,Hogar y Redención,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,202,Urbano,1.0
+1460,Alfonso XIII,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,204,Urbano,1.0
+1470,Alfalfar,Barrio,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,2,10,206,Urbano,1.0
+1470,Molino de Rosas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,207,Urbano,1.0
+1480,Lomas de Plateros,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,209,Urbano,1.0
+1490,La Cascada,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,211,Urbano,1.0
+1500,Santa Lucía,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,28,10,213,Urbano,1.0
+1500,Miguel Gaona Armenta,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2704,Urbano,1.0
+1509,Santa Lucía Chantepec,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,28,10,221,Urbano,1.0
+1510,Garcimarrero,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,222,Urbano,1.0
+1510,La Araña,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,223,Urbano,1.0
+1510,Los Cedros,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2636,Urbano,1.0
+1520,Ampliación Los Pirules,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,94,Urbano,1.0
+1520,Estado de Hidalgo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,225,Urbano,1.0
+1520,Ampliación Estado de Hidalgo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,226,Urbano,1.0
+1520,Piru Santa Lucía,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,227,Urbano,1.0
+1520,El Politoco,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2841,Urbano,1.0
+1530,Corpus Christy,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,229,Urbano,1.0
+1538,Tepopotla,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,232,Urbano,1.0
+1539,Acuilotla,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,233,Urbano,1.0
+1539,Cooperativa Unión Olivos,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2643,Urbano,1.0
+1540,Balcones de Cehuayo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,238,Urbano,1.0
+1540,Cehuaya,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,239,Urbano,1.0
+1540,Llano Redondo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,240,Urbano,1.0
+1540,Punta de Cehuaya,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,241,Urbano,1.0
+1548,Villa Progresista,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2638,Urbano,1.0
+1549,Dos Ríos del Pueblo Santa Lucía,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,243,Urbano,1.0
+1550,Tepeaca,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,245,Urbano,1.0
+1550,Ampliación Tepeaca,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,246,Urbano,1.0
+1550,Rinconada Las Cuevitas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2849,Urbano,1.0
+1560,Ave Real,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,248,Urbano,1.0
+1560,Canutillo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,249,Urbano,1.0
+1560,Canutillo 3a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,250,Urbano,1.0
+1560,Canutillo 2a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,251,Urbano,1.0
+1566,Hueytlale,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2747,Urbano,1.0
+1569,Reacomodo Valentín Gómez Farías,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,255,Urbano,1.0
+1588,Tarango,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,259,Urbano,1.0
+1590,El Rincón,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,261,Urbano,1.0
+1600,Merced Gómez,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,263,Urbano,1.0
+1610,Colinas de Tarango,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,265,Urbano,1.0
+1610,Profesor J. Arturo López Martínez,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2639,Urbano,1.0
+1618,Arcos Centenario,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,267,Urbano,1.0
+1618,Ex-Hacienda de Tarango,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2745,Urbano,1.0
+1619,Rinconada de Tarango,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,269,Urbano,1.0
+1619,La Martinica,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,268,Urbano,1.0
+1620,Lomas de Tarango,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,270,Urbano,1.0
+1630,Lomas de Puerta Grande,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,271,Urbano,1.0
+1630,Puerta Grande,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,273,Urbano,1.0
+1630,Los Juristas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2640,Urbano,1.0
+1640,Herón Proal,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,275,Urbano,1.0
+1645,Ponciano Arriaga,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,276,Urbano,1.0
+1650,La Milagrosa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,277,Urbano,1.0
+1650,Palmas Axotitla,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,278,Urbano,1.0
+1650,Tlacuitlapa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,279,Urbano,1.0
+1650,Ampliación Tlacuitlapa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,280,Urbano,1.0
+1650,2o Reacomodo Tlacuitlapa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,281,Urbano,1.0
+1650,El Ruedo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2844,Urbano,1.0
+1650,Santa Lucía Chantepec,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1401,9,1401,,9,10,2848,Urbano,1.0
+1700,La Joyita del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,282,Urbano,1.0
+1700,Ocotillos del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,283,Urbano,1.0
+1700,San Agustín del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,284,Urbano,1.0
+1700,2a Del Moral del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,285,Urbano,1.0
+1700,Tecalcapa del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,286,Urbano,1.0
+1700,Tetelpan,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,28,10,287,Urbano,1.0
+1708,El Encino del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,291,Urbano,1.0
+1708,El Mirador del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,292,Urbano,1.0
+1710,Las Águilas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,294,Urbano,1.0
+1710,Ampliación Alpes,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,295,Urbano,1.0
+1720,Lomas de Guadalupe,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,297,Urbano,1.0
+1729,Alcantarilla,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,298,Urbano,1.0
+1730,Lomas de las Águilas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,299,Urbano,1.0
+1730,Puente Colorado,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,300,Urbano,1.0
+1740,La Peñita del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,303,Urbano,1.0
+1740,San Clemente Norte,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,304,Urbano,1.0
+1740,San Clemente Sur,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,2842,Urbano,1.0
+1750,Las Águilas 1a Sección,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,305,Urbano,1.0
+1750,Las Águilas 2o Parque,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,306,Urbano,1.0
+1750,Las Águilas 3er. Parque,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,307,Urbano,1.0
+1759,Ampliación Las Águilas,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,308,Urbano,1.0
+1760,Atlamaya,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,309,Urbano,1.0
+1760,Flor de María,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,310,Urbano,1.0
+1760,La Herradura del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,311,Urbano,1.0
+1770,La Angostura,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,315,Urbano,1.0
+1770,San José del Olivar,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,316,Urbano,1.0
+1780,Olivar de los Padres,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,318,Urbano,1.0
+1780,Tizampampano del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,319,Urbano,1.0
+1789,Miguel Hidalgo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,323,Urbano,1.0
+1790,Lomas de los Ángeles del Pueblo Tetelpan,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,324,Urbano,1.0
+1790,Lomas de San Ángel Inn,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,325,Urbano,1.0
+1800,San Bartolo Ameyalco,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,28,10,327,Urbano,1.0
+1807,Rancho San Francisco Pueblo San Bartolo Ameyalco,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,328,Urbano,1.0
+1810,Villa Verdún,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,330,Urbano,1.0
+1820,Lomas Axomiatla,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,332,Urbano,1.0
+1820,Ejido San Mateo,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,2843,Urbano,1.0
+1830,Santa Rosa Xochiac,Pueblo,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,28,10,333,Urbano,1.0
+1840,Torres de Potrero,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,334,Urbano,1.0
+1849,Rincón de la Bolsa,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,337,Urbano,1.0
+1849,Rancho del Carmen del Pueblo San Bartolo Ameyalco,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,2847,Urbano,1.0
+1857,Lomas de Chamontoya,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,341,Urbano,1.0
+1859,Tlacoyaque,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,343,Urbano,1.0
+1860,Lomas de La Era,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,344,Urbano,1.0
+1863,Lomas del Capulín,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,3,Urbano,1.0
+1870,Lomas de los Cedros,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,345,Urbano,1.0
+1900,Jardines del Pedregal,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,347,Urbano,1.0
+1904,San Jerónimo Aculco,Colonia,Álvaro Obregón,Ciudad de México,Ciudad de México,1001,9,1001,,9,10,2846,Urbano,1.0
+2000,Centro de Azcapotzalco,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,353,Urbano,2.0
+2010,Los Reyes,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,2,2,356,Urbano,2.0
+2010,San Rafael,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,357,Urbano,2.0
+2010,Nuevo Barrio San Rafael,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,2,2,358,Urbano,2.0
+2020,San Marcos,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,2,2,360,Urbano,2.0
+2020,Santo Tomás,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,361,Urbano,2.0
+2040,Del Maestro,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,362,Urbano,2.0
+2040,San Sebastián,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,363,Urbano,2.0
+2050,Libertad,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,364,Urbano,2.0
+2050,Santa María Malinalco,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,28,2,365,Urbano,2.0
+2060,Sindicato Mexicano de Electricistas,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,368,Urbano,2.0
+2060,Un Hogar Para Cada Trabajador,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,369,Urbano,2.0
+2070,Del Recreo,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,371,Urbano,2.0
+2070,Nextengo,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,2,2,372,Urbano,2.0
+2080,Clavería,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,374,Urbano,2.0
+2080,Sector Naval,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,376,Urbano,2.0
+2090,San Álvaro,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,377,Urbano,2.0
+2099,Ángel Zimbrón,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,378,Urbano,2.0
+2100,El Rosario,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,379,Urbano,2.0
+2120,San Martín Xochinahuac,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,28,2,385,Urbano,2.0
+2128,Nueva El Rosario,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,389,Urbano,2.0
+2129,Nueva España,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,390,Urbano,2.0
+2130,Tierra Nueva,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,391,Urbano,2.0
+2140,Santa Inés,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,392,Urbano,2.0
+2150,Pasteros,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,393,Urbano,2.0
+2160,Santo Domingo,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,28,2,394,Urbano,2.0
+2200,Reynosa Tamaulipas,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,396,Urbano,2.0
+2230,Santa Bárbara,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,28,2,397,Urbano,2.0
+2240,San Andrés,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,2,2,398,Urbano,2.0
+2240,San Andrés,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,28,2,399,Urbano,2.0
+2250,Santa Catarina,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,400,Urbano,2.0
+2300,Industrial Vallejo,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,402,Urbano,2.0
+2310,Ferrería,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,404,Urbano,2.0
+2320,San Andrés de las Salinas,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,28,2,405,Urbano,2.0
+2330,Huautla de las Salinas,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,2,2,406,Urbano,2.0
+2340,Santa Cruz de las Salinas,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,407,Urbano,2.0
+2360,Las Salinas,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,409,Urbano,2.0
+2400,San Juan Tlihuaca,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,410,Urbano,2.0
+2410,Prados del Rosario,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,412,Urbano,2.0
+2420,Ex-Hacienda El Rosario,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,415,Urbano,2.0
+2440,Providencia,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,418,Urbano,2.0
+2459,Tezozomoc,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,421,Urbano,2.0
+2460,La Preciosa,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,422,Urbano,2.0
+2470,Ampliación Petrolera,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,423,Urbano,2.0
+2480,Petrolera,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,425,Urbano,2.0
+2490,San Mateo,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,2,2,427,Urbano,2.0
+2500,Unidad Cuitláhuac,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,428,Urbano,2.0
+2519,El Jagüey,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,430,Urbano,2.0
+2520,Estación Pantaco,Equipamiento,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,17,2,431,Urbano,2.0
+2530,Jardín Azpeitia,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2011,9,2011,,9,2,439,Urbano,2.0
+2600,Pro-Hogar,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,441,Urbano,2.0
+2630,Coltongo,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,2,2,443,Urbano,2.0
+2630,Coltongo,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,2798,Urbano,2.0
+2640,Monte Alto,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,444,Urbano,2.0
+2650,Trabajadores de Hierro,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,445,Urbano,2.0
+2660,Euzkadi,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,446,Urbano,2.0
+2670,Cosmopolita,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,447,Urbano,2.0
+2680,Potrero del Llano,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,448,Urbano,2.0
+2700,San Miguel Amantla,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,449,Urbano,2.0
+2710,San Pedro Xalpa,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,451,Urbano,2.0
+2719,Ampliación San Pedro Xalpa,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,454,Urbano,2.0
+2720,San Antonio,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,456,Urbano,2.0
+2720,San Bartolo Cahualtongo,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,457,Urbano,2.0
+2730,San Francisco Tetecala,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,459,Urbano,2.0
+2750,Santiago Ahuizotla,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,461,Urbano,2.0
+2760,Industrial San Antonio,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,462,Urbano,2.0
+2760,Santa Lucía,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,2,2,463,Urbano,2.0
+2770,Santa Cruz Acayucan,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,28,2,464,Urbano,2.0
+2780,Plenitud,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,9,2,465,Urbano,2.0
+2790,Santa Apolonia,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2431,9,2431,,2,2,466,Urbano,2.0
+2800,Nueva Santa María,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,467,Urbano,2.0
+2810,Ignacio Allende,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,469,Urbano,2.0
+2810,Victoria de las Democracias,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,470,Urbano,2.0
+2830,San Bernabé,Barrio,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,2,2,473,Urbano,2.0
+2840,Obrero Popular,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,474,Urbano,2.0
+2860,Tlatilco,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,476,Urbano,2.0
+2870,San Salvador Xochimanca,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,477,Urbano,2.0
+2900,Aguilera,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,478,Urbano,2.0
+2910,Aldana,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,479,Urbano,2.0
+2920,Ampliación Cosmopolita,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,480,Urbano,2.0
+2930,Liberación,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,481,Urbano,2.0
+2940,Porvenir,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,482,Urbano,2.0
+2950,Del Gas,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,483,Urbano,2.0
+2960,San Francisco Xocotitla,Pueblo,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,28,2,484,Urbano,2.0
+2970,Ampliación Del Gas,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,485,Urbano,2.0
+2980,Arenal,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,486,Urbano,2.0
+2980,Patrimonio Familiar,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,487,Urbano,2.0
+2990,La Raza,Colonia,Azcapotzalco,Ciudad de México,Ciudad de México,2601,9,2601,,9,2,488,Urbano,2.0
+3000,Piedad Narvarte,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,489,Urbano,3.0
+3010,Atenor Salas,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,491,Urbano,3.0
+3020,Narvarte Poniente,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,493,Urbano,3.0
+3023,Narvarte Oriente,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,2623,Urbano,3.0
+3100,Del Valle Centro,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,496,Urbano,3.0
+3100,Insurgentes San Borja,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,2624,Urbano,3.0
+3103,Del Valle Norte,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,2621,Urbano,3.0
+3104,Del Valle Sur,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,2622,Urbano,3.0
+3200,Tlacoquemécatl,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,501,Urbano,3.0
+3230,Actipan,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,505,Urbano,3.0
+3240,Acacias,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3001,9,3001,,9,14,506,Urbano,3.0
+3300,Portales Sur,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,507,Urbano,3.0
+3303,Portales Norte,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,2625,Urbano,3.0
+3310,Santa Cruz Atoyac,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,509,Urbano,3.0
+3320,Residencial Emperadores,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,512,Urbano,3.0
+3330,Xoco,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,513,Urbano,3.0
+3340,General Pedro María Anaya,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,515,Urbano,3.0
+3400,Álamos,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,516,Urbano,3.0
+3410,Postal,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,518,Urbano,3.0
+3420,Miguel Alemán,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,519,Urbano,3.0
+3430,Josefa Ortiz de Domínguez,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,521,Urbano,3.0
+3440,Niños Héroes,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,522,Urbano,3.0
+3500,Nativitas,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,523,Urbano,3.0
+3510,Moderna,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,525,Urbano,3.0
+3520,Iztaccihuatl,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,526,Urbano,3.0
+3530,Villa de Cortés,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,527,Urbano,3.0
+3540,Del Carmen,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,528,Urbano,3.0
+3550,Zacahuitzco,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,529,Urbano,3.0
+3560,Albert,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,530,Urbano,3.0
+3570,Portales Oriente,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,531,Urbano,3.0
+3580,Miravalle,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,532,Urbano,3.0
+3590,Ermita,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,533,Urbano,3.0
+3600,Vértiz Narvarte,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,534,Urbano,3.0
+3610,Américas Unidas,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,535,Urbano,3.0
+3620,Periodista,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,536,Urbano,3.0
+3630,Independencia,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,537,Urbano,3.0
+3640,Del Lago,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,538,Urbano,3.0
+3650,Letrán Valle,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,539,Urbano,3.0
+3660,San Simón Ticumac,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3501,9,3501,,9,14,540,Urbano,3.0
+3700,Santa María Nonoalco,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,541,Urbano,3.0
+3710,Ciudad de los Deportes,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,542,Urbano,3.0
+3720,Nochebuena,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,543,Urbano,3.0
+3730,San Juan,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,544,Urbano,3.0
+3740,Extremadura Insurgentes,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,545,Urbano,3.0
+3800,San Pedro de los Pinos,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,546,Urbano,3.0
+3810,Nápoles,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,548,Urbano,3.0
+3820,8 de Agosto,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,552,Urbano,3.0
+3840,Ampliación Nápoles,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,554,Urbano,3.0
+3900,San José Insurgentes,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,556,Urbano,3.0
+3910,Mixcoac,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,558,Urbano,3.0
+3920,Insurgentes Mixcoac,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,559,Urbano,3.0
+3930,Merced Gómez,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,561,Urbano,3.0
+3940,Crédito Constructor,Colonia,Benito Juárez,Ciudad de México,Ciudad de México,3901,9,3901,,9,14,562,Urbano,3.0
+4000,Villa Coyoacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,9,3,563,Urbano,4.0
+4010,Santa Catarina,Barrio,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,2,3,566,Urbano,4.0
+4020,La Concepción,Barrio,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,2,3,567,Urbano,4.0
+4030,San Lucas,Barrio,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,2,3,569,Urbano,4.0
+4040,Parque San Andrés,Colonia,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,9,3,570,Urbano,4.0
+4100,Del Carmen,Colonia,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,9,3,571,Urbano,4.0
+4120,San Diego Churubusco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,9,3,577,Urbano,4.0
+4120,San Mateo,Colonia,Coyoacán,Ciudad de México,Ciudad de México,3501,9,3501,,9,3,578,Urbano,4.0
+4200,Campestre Churubusco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,580,Urbano,4.0
+4210,Churubusco Country Club,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,582,Urbano,4.0
+4230,Prado Churubusco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,584,Urbano,4.0
+4240,Hermosillo,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,586,Urbano,4.0
+4250,Paseos de Taxqueña,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,587,Urbano,4.0
+4260,San Francisco Culhuacán Barrio de San Francisco,Barrio,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,2,3,590,Urbano,4.0
+4260,San Francisco Culhuacán Barrio de La Magdalena,Barrio,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,2,3,2807,Urbano,4.0
+4260,San Francisco Culhuacán Barrio de Santa Ana,Barrio,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,2,3,2808,Urbano,4.0
+4260,San Francisco Culhuacán Barrio de San Juan,Barrio,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,2,3,2831,Urbano,4.0
+4300,Ajusco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,596,Urbano,4.0
+4310,Romero de Terreros,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,601,Urbano,4.0
+4318,Oxtopulco Universidad,Barrio,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,2,3,603,Urbano,4.0
+4320,Cuadrante de San Francisco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,606,Urbano,4.0
+4320,Pedregal de San Francisco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,608,Urbano,4.0
+4330,El Rosedal,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4331,9,4331,,9,3,612,Urbano,4.0
+4330,Los Reyes,Pueblo,Coyoacán,Ciudad de México,Ciudad de México,4331,9,4331,,28,3,613,Urbano,4.0
+4330,Del Niño Jesús,Barrio,Coyoacán,Ciudad de México,Ciudad de México,4331,9,4331,,2,3,614,Urbano,4.0
+4340,Copilco El Bajo,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,622,Urbano,4.0
+4360,Copilco El Alto,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,632,Urbano,4.0
+4360,Copilco Universidad,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,633,Urbano,4.0
+4369,Pedregal de Santo Domingo,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,636,Urbano,4.0
+4370,Atlántida,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,637,Urbano,4.0
+4370,Ciudad Jardín,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,638,Urbano,4.0
+4380,El Rosario,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,640,Urbano,4.0
+4380,La Candelaria,Pueblo,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,28,3,641,Urbano,4.0
+4390,Huayamilpas,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,643,Urbano,4.0
+4390,Nueva Díaz Ordaz,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,644,Urbano,4.0
+4400,Educación,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,645,Urbano,4.0
+4410,Petrolera Taxqueña,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,646,Urbano,4.0
+4420,Ex-Ejido de San Francisco Culhuacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,649,Urbano,4.0
+4440,Culhuacán CTM Sección V,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,651,Urbano,4.0
+4440,Culhuacán CTM Sección II,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2810,Urbano,4.0
+4440,Culhuacán CTM Sección I,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2811,Urbano,4.0
+4450,El Centinela,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,652,Urbano,4.0
+4460,Avante,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,653,Urbano,4.0
+4470,Presidentes Ejidales 1a Sección,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,655,Urbano,4.0
+4470,Presidentes Ejidales 2a Sección,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2805,Urbano,4.0
+4480,Culhuacán CTM Sección VI,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,657,Urbano,4.0
+4480,Culhuacán CTM Sección III,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2809,Urbano,4.0
+4480,Culhuacán CTM CROC,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2812,Urbano,4.0
+4480,Culhuacán CTM Sección X-A,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2815,Urbano,4.0
+4489,Culhuacán CTM Sección VII,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,658,Urbano,4.0
+4490,Culhuacán CTM Sección Piloto,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,659,Urbano,4.0
+4490,Culhuacán CTM Canal Nacional,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2813,Urbano,4.0
+4500,Jardines del Pedregal de San Ángel,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,660,Urbano,4.0
+4510,Universidad Nacional Autónoma de México,Equipamiento,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,17,3,2793,Urbano,4.0
+4519,La Otra Banda,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,664,Urbano,4.0
+4530,Insurgentes Cuicuilco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,665,Urbano,4.0
+4600,Pedregal de Santa Úrsula,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,669,Urbano,4.0
+4610,Xotepingo,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,670,Urbano,4.0
+4620,San Pablo Tepetlapa,Pueblo,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,28,3,671,Urbano,4.0
+4630,Adolfo Ruiz Cortínes,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,672,Urbano,4.0
+4640,El Reloj,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,673,Urbano,4.0
+4650,Santa Úrsula Coapa,Pueblo,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,28,3,676,Urbano,4.0
+4660,Joyas del Pedregal,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,677,Urbano,4.0
+4700,Pedregal de Carrasco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,678,Urbano,4.0
+4710,Olímpica,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,680,Urbano,4.0
+4730,Cantil del Pedregal,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,686,Urbano,4.0
+4730,Bosques de Tetlameya,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,687,Urbano,4.0
+4739,El Caracol,Colonia,Coyoacán,Ciudad de México,Ciudad de México,14391,9,14391,,9,3,690,Urbano,4.0
+4800,Alianza Popular Revolucionaria,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,691,Urbano,4.0
+4800,Los Cedros,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,692,Urbano,4.0
+4810,Prados de Coyoacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,695,Urbano,4.0
+4815,Emiliano Zapata,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,696,Urbano,4.0
+4830,Los Cipreses,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,697,Urbano,4.0
+4840,Ex-Ejido de San Pablo Tepetlapa,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2806,Urbano,4.0
+4870,Espartaco,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,706,Urbano,4.0
+4890,Jardines de Coyoacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,708,Urbano,4.0
+4890,Los Olivos,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,709,Urbano,4.0
+4899,El Parque de Coyoacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,711,Urbano,4.0
+4909,Culhuacán CTM Sección VIII,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,714,Urbano,4.0
+4909,Culhuacán CTM Sección IX-A,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,715,Urbano,4.0
+4909,Culhuacán CTM Sección IX-B,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2814,Urbano,4.0
+4910,Carmen Serdán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,716,Urbano,4.0
+4918,Cafetales,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,717,Urbano,4.0
+4919,Emiliano Zapata Fraccionamiento Popular,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,718,Urbano,4.0
+4920,Los Girasoles,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,719,Urbano,4.0
+4929,Las Campanas,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,723,Urbano,4.0
+4930,Santa Cecilia,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,724,Urbano,4.0
+4938,Campestre Coyoacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,725,Urbano,4.0
+4939,Culhuacán CTM Sección X,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,726,Urbano,4.0
+4940,Los Sauces,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,727,Urbano,4.0
+4950,El Mirador,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,728,Urbano,4.0
+4960,Villa Quietud,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,729,Urbano,4.0
+4970,Haciendas de Coyoacán,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,730,Urbano,4.0
+4980,Ex-Ejido de Santa Úrsula Coapa,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,674,Urbano,4.0
+4980,Ex-Hacienda Coapa,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,731,Urbano,4.0
+4980,Viejo Ejido de Santa Úrsula Coapa,Colonia,Coyoacán,Ciudad de México,Ciudad de México,4831,9,4831,,9,3,2792,Urbano,4.0
+5000,Cuajimalpa,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,732,Urbano,5.0
+5010,Zentlapatl,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,735,Urbano,5.0
+5020,Loma del Padre,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,736,Urbano,5.0
+5030,San Pedro,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,737,Urbano,5.0
+5030,La Manzanita,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,2867,Urbano,5.0
+5050,San Pablo Chimalpa,Pueblo,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,28,4,740,Urbano,5.0
+5100,Lomas de Vista Hermosa,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,746,Urbano,5.0
+5110,Cooperativa Palo Alto,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,748,Urbano,5.0
+5118,Granjas Palo Alto,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,751,Urbano,5.0
+5119,Campestre Palo Alto,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,752,Urbano,5.0
+5120,Bosques de las Lomas,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,753,Urbano,5.0
+5129,Lomas del Chamizal,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,758,Urbano,5.0
+5200,San José de los Cedros,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,766,Urbano,5.0
+5219,Granjas Navidad,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,768,Urbano,5.0
+5220,Tepetongo,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,769,Urbano,5.0
+5230,El Ébano,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,770,Urbano,5.0
+5240,El Molino,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,774,Urbano,5.0
+5260,Jesús del Monte,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,777,Urbano,5.0
+5269,Amado Nervo,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,780,Urbano,5.0
+5270,Manzanastitla,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,782,Urbano,5.0
+5280,Adolfo López Mateos,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,783,Urbano,5.0
+5310,El Molinito,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,785,Urbano,5.0
+5320,El Yaqui,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,786,Urbano,5.0
+5330,Lomas de Memetla,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,787,Urbano,5.0
+5330,Memetla,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,788,Urbano,5.0
+5330,Ampliación Memetla,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,789,Urbano,5.0
+5330,Ampliación el Yaqui,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,2869,Urbano,5.0
+5348,Santa Fe Cuajimalpa,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,792,Urbano,5.0
+5360,Locaxco,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,794,Urbano,5.0
+5370,Las Tinajas,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,797,Urbano,5.0
+5379,Lomas de San Pedro,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,799,Urbano,5.0
+5400,El Tianguillo,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,800,Urbano,5.0
+5410,San Lorenzo Acopilco,Pueblo,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,28,4,801,Urbano,5.0
+5410,1° de Mayo,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,2866,Urbano,5.0
+5500,Contadero,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,803,Urbano,5.0
+5520,La Venta,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,808,Urbano,5.0
+5530,Abdías García Soto,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,809,Urbano,5.0
+5600,San Mateo Tlaltenango,Pueblo,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,28,4,810,Urbano,5.0
+5610,Santa Rosa Xochiac,Pueblo,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,28,4,2868,Urbano,5.0
+5700,Cruz Blanca,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,819,Urbano,5.0
+5710,Las Maromas,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,820,Urbano,5.0
+5730,Xalpa,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,825,Urbano,5.0
+5750,La Pila,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,827,Urbano,5.0
+5760,Las Lajas,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,829,Urbano,5.0
+5780,Agua Bendita,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,833,Urbano,5.0
+5790,Puerto Las Cruces,Colonia,Cuajimalpa de Morelos,Ciudad de México,Ciudad de México,5501,9,5501,,9,4,1,Rural,5.0
+6000,Centro (Área 1),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,838,Urbano,6.0
+6010,Centro (Área 2),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,847,Urbano,6.0
+6020,Centro (Área 3),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,850,Urbano,6.0
+6030,Tabacalera,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,853,Urbano,6.0
+6040,Centro (Área 4),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,860,Urbano,6.0
+6050,Centro (Área 5),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,863,Urbano,6.0
+6060,Centro (Área 6),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,867,Urbano,6.0
+6070,Centro (Área 7),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,873,Urbano,6.0
+6080,Centro (Área 8),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,875,Urbano,6.0
+6090,Centro (Área 9),Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6002,9,6002,,9,15,879,Urbano,6.0
+6100,Hipódromo,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,882,Urbano,6.0
+6140,Condesa,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,884,Urbano,6.0
+6170,Hipódromo Condesa,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,886,Urbano,6.0
+6200,Morelos,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,891,Urbano,6.0
+6220,Peralvillo,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,894,Urbano,6.0
+6240,Valle Gómez,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,895,Urbano,6.0
+6250,Ex-Hipódromo de Peralvillo,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,896,Urbano,6.0
+6270,Maza,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,898,Urbano,6.0
+6280,Felipe Pescador,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,899,Urbano,6.0
+6300,Guerrero,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,900,Urbano,6.0
+6350,Buenavista,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,906,Urbano,6.0
+6400,Santa María la Ribera,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,911,Urbano,6.0
+6430,Santa María Insurgentes,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,913,Urbano,6.0
+6450,Atlampa,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,914,Urbano,6.0
+6470,San Rafael,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,915,Urbano,6.0
+6500,Cuauhtémoc,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,919,Urbano,6.0
+6600,Juárez,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,930,Urbano,6.0
+6700,Roma Norte,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,947,Urbano,6.0
+6720,Doctores,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,955,Urbano,6.0
+6760,Roma Sur,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,966,Urbano,6.0
+6780,Buenos Aires,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,970,Urbano,6.0
+6800,Obrera,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,974,Urbano,6.0
+6820,Tránsito,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,978,Urbano,6.0
+6840,Esperanza,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,980,Urbano,6.0
+6850,Asturias,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,981,Urbano,6.0
+6860,Vista Alegre,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,982,Urbano,6.0
+6870,Paulino Navarro,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,983,Urbano,6.0
+6880,Algarin,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,984,Urbano,6.0
+6890,Ampliación Asturias,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,986,Urbano,6.0
+6900,Nonoalco Tlatelolco,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,988,Urbano,6.0
+6920,San Simón Tolnáhuac,Colonia,Cuauhtémoc,Ciudad de México,Ciudad de México,6401,9,6401,,9,15,989,Urbano,6.0
+7000,Aragón la Villa,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,991,Urbano,7.0
+7010,Rosas del Tepeyac,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,994,Urbano,7.0
+7010,Santa Isabel Tola,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,995,Urbano,7.0
+7010,Tepetates,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,996,Urbano,7.0
+7020,Tepeyac Insurgentes,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,997,Urbano,7.0
+7040,Santiago Atzacoalco,Pueblo,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,28,5,998,Urbano,7.0
+7050,Villa Gustavo A. Madero,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1001,Urbano,7.0
+7058,15 de Agosto,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1003,Urbano,7.0
+7060,Estanzuela,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1005,Urbano,7.0
+7069,Triunfo de La República,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1006,Urbano,7.0
+7070,La Cruz,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1007,Urbano,7.0
+7070,Dinamita,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1008,Urbano,7.0
+7070,Martín Carrera,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1010,Urbano,7.0
+7080,Gabriel Hernández,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1011,Urbano,7.0
+7089,Ampliación Gabriel Hernández,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1012,Urbano,7.0
+7090,C.T.M. Atzacoalco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1013,Urbano,7.0
+7090,C.T.M. El Risco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1014,Urbano,7.0
+7100,Cuautepec Barrio Alto,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1016,Urbano,7.0
+7100,San Miguel,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1017,Urbano,7.0
+7109,San Antonio,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1019,Urbano,7.0
+7110,Lomas de Cuautepec,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1021,Urbano,7.0
+7119,Malacates,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1022,Urbano,7.0
+7119,Ampliación Malacates,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1227,Urbano,7.0
+7130,Compositores Mexicanos,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1023,Urbano,7.0
+7130,El Tepetatal,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1024,Urbano,7.0
+7140,Arboledas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1026,Urbano,7.0
+7140,Ampliación Arboledas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1027,Urbano,7.0
+7140,Forestal,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1028,Urbano,7.0
+7140,Forestal I,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1029,Urbano,7.0
+7144,Forestal II,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2885,Urbano,7.0
+7144,La Lengüeta,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2887,Urbano,7.0
+7149,Parque Metropolitano,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1031,Urbano,7.0
+7150,Juventino Rosas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1032,Urbano,7.0
+7150,La Casilda,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1033,Urbano,7.0
+7160,Loma La Palma,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1034,Urbano,7.0
+7164,Luis Donaldo Colosio,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2548,Urbano,7.0
+7164,Tlacaélel,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2549,Urbano,7.0
+7164,Graciano Sánchez,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2717,Urbano,7.0
+7164,Prados de Cuautepec,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2718,Urbano,7.0
+7170,Palmatitla,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1035,Urbano,7.0
+7180,Ampliación Cocoyotes,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2687,Urbano,7.0
+7180,Cocoyotes,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1036,Urbano,7.0
+7180,General Felipe Berriozabal,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1037,Urbano,7.0
+7183,6 de Junio,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2688,Urbano,7.0
+7187,Vista Hermosa,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1038,Urbano,7.0
+7188,Tlalpexco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1039,Urbano,7.0
+7189,Ahuehuetes,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1040,Urbano,7.0
+7190,Valle de Madero,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1041,Urbano,7.0
+7199,Del Carmen,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1042,Urbano,7.0
+7200,Cuautepec de Madero,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1043,Urbano,7.0
+7207,Del Bosque,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1046,Urbano,7.0
+7209,Guadalupe Victoria Cuautepec,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1048,Urbano,7.0
+7210,Chalma de Guadalupe,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1049,Urbano,7.0
+7214,Ampliación Chalma de Guadalupe,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2884,Urbano,7.0
+7220,Castillo Chico,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1051,Urbano,7.0
+7220,Castillo Grande,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1052,Urbano,7.0
+7224,Ampliación Castillo Grande,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,2883,Urbano,7.0
+7230,Zona Escolar,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1053,Urbano,7.0
+7239,Zona Escolar Oriente,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1054,Urbano,7.0
+7240,El Arbolillo,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1056,Urbano,7.0
+7250,Benito Juárez,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1061,Urbano,7.0
+7259,Ampliación Benito Juárez,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1063,Urbano,7.0
+7268,Solidaridad Nacional,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1065,Urbano,7.0
+7270,Residencial Acueducto de Guadalupe,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1067,Urbano,7.0
+7279,Acueducto de Guadalupe,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1069,Urbano,7.0
+7280,Jorge Negrete,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1070,Urbano,7.0
+7290,La Pastora,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7201,9,7201,,9,5,1071,Urbano,7.0
+7300,Lindavista Norte,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1072,Urbano,7.0
+7300,Lindavista Sur,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,2888,Urbano,7.0
+7310,Candelaria Ticomán,Barrio,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,2,5,1075,Urbano,7.0
+7320,La Purísima Ticomán,Barrio,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,2,5,1079,Urbano,7.0
+7320,Residencial la Escalera,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,9,5,1080,Urbano,7.0
+7330,Santa María Ticomán,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,9,5,1085,Urbano,7.0
+7340,La Laguna Ticomán,Barrio,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,2,5,1087,Urbano,7.0
+7340,San José Ticomán,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,9,5,1088,Urbano,7.0
+7350,Guadalupe Ticomán,Barrio,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,2,5,1091,Urbano,7.0
+7350,San Juan y Guadalupe Ticomán,Barrio,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,2,5,1092,Urbano,7.0
+7359,San Rafael Ticomán,Barrio,Gustavo A. Madero,Ciudad de México,Ciudad de México,7311,9,7311,,2,5,1093,Urbano,7.0
+7360,San Pedro Zacatenco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1095,Urbano,7.0
+7369,Residencial Zacatenco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1097,Urbano,7.0
+7370,Capultitlan,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1098,Urbano,7.0
+7380,Maximino Ávila Camacho,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1099,Urbano,7.0
+7380,Tlacamaca,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1100,Urbano,7.0
+7400,Salvador Díaz Mirón,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1101,Urbano,7.0
+7410,Juan González Romero,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1102,Urbano,7.0
+7410,Villa Hermosa,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1103,Urbano,7.0
+7420,El Coyol,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1105,Urbano,7.0
+7420,Nueva Atzacoalco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1106,Urbano,7.0
+7430,Del Obrero,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1108,Urbano,7.0
+7440,Vasco de Quiroga,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1109,Urbano,7.0
+7450,DM Nacional,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1110,Urbano,7.0
+7455,Ferrocarrilera,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1111,Urbano,7.0
+7456,LI Legislatura,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1112,Urbano,7.0
+7460,Granjas Modernas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1117,Urbano,7.0
+7469,Constitución de la República,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1118,Urbano,7.0
+7470,Ampliación San Juan de Aragón,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1119,Urbano,7.0
+7480,San Pedro El Chico,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1120,Urbano,7.0
+7500,La Pradera,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1122,Urbano,7.0
+7509,Pradera II Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1125,Urbano,7.0
+7510,San Felipe de Jesús,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1126,Urbano,7.0
+7520,25 de Julio,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1128,Urbano,7.0
+7530,Campestre Aragón,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1129,Urbano,7.0
+7540,La Esmeralda,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1131,Urbano,7.0
+7550,Providencia,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1135,Urbano,7.0
+7560,Ampliación Providencia,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1136,Urbano,7.0
+7570,Villa de Aragón,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1137,Urbano,7.0
+7580,Ampliación Casas Alemán,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7501,9,7501,,9,5,1138,Urbano,7.0
+7600,Progreso Nacional,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1139,Urbano,7.0
+7620,Santa Rosa,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1141,Urbano,7.0
+7630,San José de la Escalera,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1142,Urbano,7.0
+7640,Santiago Atepetlac,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1143,Urbano,7.0
+7650,Ampliación Progreso Nacional,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1144,Urbano,7.0
+7670,Guadalupe Proletaria,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1146,Urbano,7.0
+7680,Ampliación Guadalupe Proletaria,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1147,Urbano,7.0
+7700,Nueva Industrial Vallejo,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1148,Urbano,7.0
+7707,Siete Maravillas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1149,Urbano,7.0
+7708,Torres Lindavista,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1150,Urbano,7.0
+7720,Lindavista Vallejo I Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1153,Urbano,7.0
+7730,Churubusco Tepeyac,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1155,Urbano,7.0
+7730,Montevideo,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1156,Urbano,7.0
+7730,San Bartolo Atepehuacan,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1157,Urbano,7.0
+7739,Planetario Lindavista,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1159,Urbano,7.0
+7740,Valle del Tepeyac,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7051,9,7051,,9,5,1160,Urbano,7.0
+7750,Nueva Vallejo,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1161,Urbano,7.0
+7754,Lindavista Vallejo III Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,2890,Urbano,7.0
+7755,Lindavista Vallejo II Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,2889,Urbano,7.0
+7760,Magdalena de las Salinas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1162,Urbano,7.0
+7770,Panamericana,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1163,Urbano,7.0
+7770,Ampliación Panamericana,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1164,Urbano,7.0
+7780,Defensores de La República,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1166,Urbano,7.0
+7780,Héroe de Nacozari,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1167,Urbano,7.0
+7790,Guadalupe Victoria,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1168,Urbano,7.0
+7790,Vallejo Poniente,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1169,Urbano,7.0
+7800,Industrial,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1170,Urbano,7.0
+7810,Estrella,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1172,Urbano,7.0
+7820,Aragón Inguarán,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1174,Urbano,7.0
+7820,Tres Estrellas,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1175,Urbano,7.0
+7830,Gertrudis Sánchez 1a Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1176,Urbano,7.0
+7838,Gertrudis Sánchez 3a Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,2886,Urbano,7.0
+7839,Gertrudis Sánchez 2a Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1178,Urbano,7.0
+7840,Guadalupe Tepeyac,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1179,Urbano,7.0
+7840,7 de Noviembre,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1180,Urbano,7.0
+7850,Bondojito,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1181,Urbano,7.0
+7850,Faja de Oro,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1182,Urbano,7.0
+7858,Ampliación Emiliano Zapata,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1183,Urbano,7.0
+7859,Ampliación Mártires de Río Blanco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1184,Urbano,7.0
+7860,La Joyita,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1185,Urbano,7.0
+7860,Tablas de San Agustín,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1187,Urbano,7.0
+7869,Belisario Domínguez,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1188,Urbano,7.0
+7870,Guadalupe Insurgentes,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1189,Urbano,7.0
+7870,Vallejo,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1190,Urbano,7.0
+7880,Mártires de Río Blanco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1191,Urbano,7.0
+7889,Emiliano Zapata,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1192,Urbano,7.0
+7890,Cuchilla La Joya,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1193,Urbano,7.0
+7890,La Joya,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1194,Urbano,7.0
+7890,Nueva Tenochtitlán,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1195,Urbano,7.0
+7899,La Malinche,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7001,9,7001,,9,5,1196,Urbano,7.0
+7900,Cuchilla del Tesoro,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1197,Urbano,7.0
+7910,San Juan de Aragón VII Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1199,Urbano,7.0
+7918,San Juan de Aragón VI Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1200,Urbano,7.0
+7919,Ex Ejido San Juan de Aragón Sector 32,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1201,Urbano,7.0
+7920,El Olivo,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1202,Urbano,7.0
+7920,San Juan de Aragón,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1203,Urbano,7.0
+7930,Indeco,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1204,Urbano,7.0
+7939,Héroes de Chapultepec,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1205,Urbano,7.0
+7940,Ex Ejido San Juan de Aragón Sector 33,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1206,Urbano,7.0
+7950,San Juan de Aragón,Pueblo,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,28,5,1207,Urbano,7.0
+7960,Héroes de Cerro Prieto,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1211,Urbano,7.0
+7960,Ex Escuela de Tiro,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1212,Urbano,7.0
+7960,Fernando Casas Alemán,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1213,Urbano,7.0
+7969,San Juan de Aragón I Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1215,Urbano,7.0
+7969,San Juan de Aragón II Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1216,Urbano,7.0
+7970,San Juan de Aragón III Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1217,Urbano,7.0
+7979,San Juan de Aragón IV Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1218,Urbano,7.0
+7979,San Juan de Aragón V Sección,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1219,Urbano,7.0
+7980,Narciso Bassols,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1220,Urbano,7.0
+7990,C.T.M. Aragón,Colonia,Gustavo A. Madero,Ciudad de México,Ciudad de México,7981,9,7981,,9,5,1222,Urbano,7.0
+8000,Gabriel Ramos Millán Sección Bramadero,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1233,Urbano,8.0
+8010,Ex-Ejido de La Magdalena Mixiuhca,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1237,Urbano,8.0
+8020,Ampliación Gabriel Ramos Millán,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1238,Urbano,8.0
+8030,Gabriel Ramos Millán Sección Cuchilla,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1241,Urbano,8.0
+8040,Carlos Zapata Vela,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1242,Urbano,8.0
+8100,Agrícola Pantitlán,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1244,Urbano,8.0
+8200,Viaducto Piedad,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1250,Urbano,8.0
+8210,Nueva Santa Anita,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1251,Urbano,8.0
+8220,San Pedro,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1252,Urbano,8.0
+8230,San Francisco Xicaltongo,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1253,Urbano,8.0
+8240,Santiago Norte,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1254,Urbano,8.0
+8300,Santa Anita,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1255,Urbano,8.0
+8310,La Cruz,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1256,Urbano,8.0
+8320,Fraccionamiento Coyuya,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1257,Urbano,8.0
+8400,Granjas México,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1258,Urbano,8.0
+8420,Cuchilla Agrícola Oriental,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1262,Urbano,8.0
+8500,Agrícola Oriental,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1263,Urbano,8.0
+8510,El Rodeo,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1265,Urbano,8.0
+8600,La Asunción,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1269,Urbano,8.0
+8610,Zapotla,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1270,Urbano,8.0
+8620,Los Reyes,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1272,Urbano,8.0
+8650,San Miguel,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1277,Urbano,8.0
+8700,Juventino Rosas,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1278,Urbano,8.0
+8710,Tlazintla,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1279,Urbano,8.0
+8720,Gabriel Ramos Millán Sección Tlacotal,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1280,Urbano,8.0
+8730,Gabriel Ramos Millán,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1281,Urbano,8.0
+8760,INPI Picos,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1284,Urbano,8.0
+8760,Los Picos de Iztacalco Sección 2A,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,2795,Urbano,8.0
+8760,Los Picos de Iztacalco Sección 1B,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,2796,Urbano,8.0
+8770,Los Picos de Iztacalco Sección 1A,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1285,Urbano,8.0
+8800,Santiago Sur,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1286,Urbano,8.0
+8810,Reforma Iztaccíhuatl Norte,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1288,Urbano,8.0
+8830,Militar Marte,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1291,Urbano,8.0
+8840,Reforma Iztaccíhuatl Sur,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1292,Urbano,8.0
+8900,INFONAVIT Iztacalco,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1293,Urbano,8.0
+8910,Santa Cruz,Barrio,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,2,6,1294,Urbano,8.0
+8920,Jardines Tecma,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1295,Urbano,8.0
+8930,Campamento 2 de Octubre,Colonia,Iztacalco,Ciudad de México,Ciudad de México,8231,9,8231,,9,6,1296,Urbano,8.0
+9000,La Asunción,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1299,Urbano,9.0
+9000,San Ignacio,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1300,Urbano,9.0
+9000,San José,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1301,Urbano,9.0
+9000,San Lucas,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1302,Urbano,9.0
+9000,San Pablo,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1303,Urbano,9.0
+9000,San Pedro,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1304,Urbano,9.0
+9000,Santa Bárbara,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,2,7,1305,Urbano,9.0
+9010,Real del Moral,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1308,Urbano,9.0
+9020,Doctor Alfonso Ortiz Tirado,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1310,Urbano,9.0
+9030,Paseos de Churubusco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1314,Urbano,9.0
+9040,Central de Abasto,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1316,Urbano,9.0
+9060,Escuadrón 201,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1320,Urbano,9.0
+9060,Sector Popular,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1321,Urbano,9.0
+9070,Granjas de San Antonio,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1322,Urbano,9.0
+9080,Cacama,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1325,Urbano,9.0
+9089,Unidad Modelo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1328,Urbano,9.0
+9090,Héroes de Churubusco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1329,Urbano,9.0
+9099,Mexicaltzingo,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,28,7,1330,Urbano,9.0
+9100,Juan Escutia,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9181,9,9181,,9,7,1331,Urbano,9.0
+9130,San Lorenzo Xicotencatl,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9181,9,9181,,28,7,1334,Urbano,9.0
+9140,Santa Martha Acatitla Norte,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9181,9,9181,,9,7,1335,Urbano,9.0
+9180,Ermita Zaragoza,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9181,9,9181,,9,7,1339,Urbano,9.0
+9200,Unidad Vicente Guerrero,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1341,Urbano,9.0
+9208,Chinampac de Juárez,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1345,Urbano,9.0
+9209,Renovación,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1352,Urbano,9.0
+9210,Tepalcates,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1355,Urbano,9.0
+9220,Unidad Ejército Constitucionalista,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1357,Urbano,9.0
+9230,Álvaro Obregón,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1364,Urbano,9.0
+9230,Ejército de Oriente,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1365,Urbano,9.0
+9230,El Paraíso,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1368,Urbano,9.0
+9230,José María Morelos y Pavón,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1369,Urbano,9.0
+9239,Ejército de Oriente Zona Peñón,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1370,Urbano,9.0
+9240,Progresista,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1371,Urbano,9.0
+9250,La Regadera,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1373,Urbano,9.0
+9260,Constitución de 1917,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1375,Urbano,9.0
+9270,Colonial Iztapalapa,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1376,Urbano,9.0
+9280,Jacarandas,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1377,Urbano,9.0
+9290,Santa Cruz Meyehualco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1378,Urbano,9.0
+9300,Guadalupe del Moral,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1380,Urbano,9.0
+9310,Leyes de Reforma 1a Sección,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1382,Urbano,9.0
+9310,Leyes de Reforma 2a Sección,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1383,Urbano,9.0
+9310,Leyes de Reforma 3a Sección,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,2839,Urbano,9.0
+9319,Cuchilla del Moral,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1384,Urbano,9.0
+9320,Sideral,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1388,Urbano,9.0
+9350,Albarrada,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1392,Urbano,9.0
+9359,Eva Sámano de López Mateos,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1393,Urbano,9.0
+9360,San Miguel,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,2,7,1398,Urbano,9.0
+9360,Ampliación San Miguel,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9201,9,9201,,9,7,1399,Urbano,9.0
+9400,San Juanico Nextipac,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,28,7,1407,Urbano,9.0
+9400,El Sifón,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1408,Urbano,9.0
+9410,Aculco,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,28,7,1410,Urbano,9.0
+9410,Jardines de Churubusco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1412,Urbano,9.0
+9410,Magdalena Atlazolpa,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,28,7,1413,Urbano,9.0
+9410,San José Aculco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1414,Urbano,9.0
+9420,Los Picos VI-B,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1415,Urbano,9.0
+9420,Nueva Rosita,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1416,Urbano,9.0
+9429,Purísima Atlazolpa,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1417,Urbano,9.0
+9430,Apatlaco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1418,Urbano,9.0
+9430,El Triunfo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1419,Urbano,9.0
+9438,Ampliación El Triunfo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1422,Urbano,9.0
+9440,El Retoño,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1425,Urbano,9.0
+9440,San Andrés Tetepilco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1426,Urbano,9.0
+9440,Zacahuitzco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,2840,Urbano,9.0
+9450,Banjidal,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1429,Urbano,9.0
+9460,Justo Sierra,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1430,Urbano,9.0
+9470,Sinatel,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1431,Urbano,9.0
+9479,Ampliación Sinatel,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1432,Urbano,9.0
+9480,El Prado,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9081,9,9081,,9,7,1433,Urbano,9.0
+9500,Santa María Aztahuacán,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,28,7,1435,Urbano,9.0
+9500,Santa María Aztahuacán Ampliación,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2565,Urbano,9.0
+9510,Santa Martha Acatitla,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,28,7,1436,Urbano,9.0
+9520,El Edén,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1439,Urbano,9.0
+9520,San Sebastián Tecoloxtitla,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,28,7,1440,Urbano,9.0
+9530,Santa Martha Acatitla Sur,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1441,Urbano,9.0
+9550,Monte Alban,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1443,Urbano,9.0
+9560,Paraje Zacatepec,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1444,Urbano,9.0
+9570,Santa María Aztahuacán,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1445,Urbano,9.0
+9578,Ejército de Agua Prieta,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1449,Urbano,9.0
+9600,Santiago Acahualtepec,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,28,7,1453,Urbano,9.0
+9608,Santiago Acahualtepec 1ra. Ampliación,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1454,Urbano,9.0
+9609,Santiago Acahualtepec 2a. Ampliación,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1455,Urbano,9.0
+9620,Lomas de Zaragoza,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1456,Urbano,9.0
+9630,San Miguel Teotongo Sección Corrales,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1481,Urbano,9.0
+9630,San Miguel Teotongo Sección Acorralado,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2850,Urbano,9.0
+9630,San Miguel Teotongo Sección Avisadero,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2851,Urbano,9.0
+9630,San Miguel Teotongo Sección Capilla,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2852,Urbano,9.0
+9630,San Miguel Teotongo Sección Guadalupe,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2853,Urbano,9.0
+9630,San Miguel Teotongo Sección Iztlahuaca,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2854,Urbano,9.0
+9630,San Miguel Teotongo Sección Jardines,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2855,Urbano,9.0
+9630,San Miguel Teotongo Sección La Cruz,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2856,Urbano,9.0
+9630,San Miguel Teotongo Sección Loma Alta,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2857,Urbano,9.0
+9630,San Miguel Teotongo Sección Mercedes,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2858,Urbano,9.0
+9630,San Miguel Teotongo Sección Palmitas,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2859,Urbano,9.0
+9630,San Miguel Teotongo Sección Puente,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2860,Urbano,9.0
+9630,San Miguel Teotongo Sección Ranchito,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2861,Urbano,9.0
+9630,San Miguel Teotongo Sección Rancho Bajo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2862,Urbano,9.0
+9630,San Miguel Teotongo Sección Torres,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,2863,Urbano,9.0
+9637,Campestre Potrero,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1461,Urbano,9.0
+9638,Ampliación Emiliano Zapata,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1462,Urbano,9.0
+9640,Lomas de la Estancia,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1464,Urbano,9.0
+9640,Xalpa,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1465,Urbano,9.0
+9648,San Pablo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1467,Urbano,9.0
+9660,Citlalli,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1470,Urbano,9.0
+9670,Palmitas,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1471,Urbano,9.0
+9680,Tenorios,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1473,Urbano,9.0
+9689,Barranca de Guadalupe,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1477,Urbano,9.0
+9690,Iztlahuacán,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1478,Urbano,9.0
+9696,Miravalles,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1480,Urbano,9.0
+9698,Miguel de La Madrid Hurtado,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9511,9,9511,,9,7,1482,Urbano,9.0
+9700,Buenavista,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1485,Urbano,9.0
+9700,Carlos Hank González,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1486,Urbano,9.0
+9700,Desarrollo Urbano Quetzalcóatl,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1488,Urbano,9.0
+9700,Santa Cruz Meyehualco,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,28,7,1491,Urbano,9.0
+9704,Degollado,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1492,Urbano,9.0
+9705,Degollado - Mexicatlalli,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,2726,Urbano,9.0
+9706,San José Buenavista,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1497,Urbano,9.0
+9708,Mixcoatl,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1500,Urbano,9.0
+9709,Lomas de Santa Cruz,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1501,Urbano,9.0
+9710,Los Ángeles Apanoaya,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1502,Urbano,9.0
+9720,Francisco Villa,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1505,Urbano,9.0
+9720,La Era,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1506,Urbano,9.0
+9730,Reforma Política,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1508,Urbano,9.0
+9740,Presidentes de México,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1511,Urbano,9.0
+9750,Insurgentes,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1512,Urbano,9.0
+9750,La Polvorilla,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1514,Urbano,9.0
+9750,Las Peñas,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1515,Urbano,9.0
+9760,Consejo Agrarista Mexicano,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1518,Urbano,9.0
+9769,El Triángulo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1523,Urbano,9.0
+9770,Puente Blanco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1524,Urbano,9.0
+9780,Año de Juárez,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1527,Urbano,9.0
+9780,Lomas de San Lorenzo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1528,Urbano,9.0
+9790,San Lorenzo Tezonco,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,28,7,1531,Urbano,9.0
+9800,Culhuacán,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,28,7,1532,Urbano,9.0
+9800,El Mirador,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1534,Urbano,9.0
+9800,Estrella Culhuacán,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1535,Urbano,9.0
+9800,Fuego Nuevo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1536,Urbano,9.0
+9800,San Antonio Culhuacán,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1538,Urbano,9.0
+9800,San Antonio Culhuacán,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,2,7,1539,Urbano,9.0
+9800,San Simón Culhuacán,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,2,7,1540,Urbano,9.0
+9800,Tula,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,2,7,1541,Urbano,9.0
+9800,Valle de Luces,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1542,Urbano,9.0
+9810,Granjas Esmeralda,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1547,Urbano,9.0
+9810,Los Cipreses,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1548,Urbano,9.0
+9810,Minerva,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1549,Urbano,9.0
+9810,Progreso del Sur,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1550,Urbano,9.0
+9819,Valle del Sur,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1551,Urbano,9.0
+9820,El Santuario,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1552,Urbano,9.0
+9820,Estrella del Sur,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1553,Urbano,9.0
+9820,Ricardo Flores Magón,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1556,Urbano,9.0
+9820,Santa Isabel Industrial,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1557,Urbano,9.0
+9828,Ampliación Ricardo Flores Magón,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1559,Urbano,9.0
+9829,Ampliación El Santuario,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1560,Urbano,9.0
+9830,El Manto,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1562,Urbano,9.0
+9830,El Molino,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1563,Urbano,9.0
+9830,Lomas El Manto,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1565,Urbano,9.0
+9830,Los Ángeles,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1566,Urbano,9.0
+9830,Paraje San Juan,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1568,Urbano,9.0
+9837,San Miguel 8va. Ampliación,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1570,Urbano,9.0
+9838,Plan de Iguala,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1571,Urbano,9.0
+9839,Ampliación Paraje San Juan,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1573,Urbano,9.0
+9839,San Juan Joya,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1576,Urbano,9.0
+9840,Los Reyes Culhuacán,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,28,7,1578,Urbano,9.0
+9849,Ampliación Los Reyes,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1580,Urbano,9.0
+9850,San Juan Xalpa,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1586,Urbano,9.0
+9850,San Nicolás Tolentino,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1588,Urbano,9.0
+9850,Santa María del Monte,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1589,Urbano,9.0
+9856,Estado de Veracruz,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1590,Urbano,9.0
+9856,Ampliación Veracruzana,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1591,Urbano,9.0
+9858,Paraje San Juan Cerro,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1594,Urbano,9.0
+9859,Benito Juárez,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1595,Urbano,9.0
+9860,Bellavista,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1596,Urbano,9.0
+9860,Ampliación Bellavista,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1597,Urbano,9.0
+9860,Casa Blanca,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1598,Urbano,9.0
+9860,Cerro de La Estrella,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1600,Urbano,9.0
+9860,Parque Nacional Cerro de la Estrella,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1601,Urbano,9.0
+9860,El Rodeo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1602,Urbano,9.0
+9868,San Juan Estrella,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1607,Urbano,9.0
+9870,12 de Diciembre,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1609,Urbano,9.0
+9870,San Andrés Tomatlán,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1611,Urbano,9.0
+9870,San Andrés Tomatlán,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,28,7,1613,Urbano,9.0
+9870,Santa María Tomatlán,Pueblo,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,28,7,1616,Urbano,9.0
+9880,El Vergel,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1620,Urbano,9.0
+9880,Granjas Estrella,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1621,Urbano,9.0
+9890,Lomas Estrella,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1629,Urbano,9.0
+9897,Carlos Jonguitud Barrios,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9821,9,9821,,9,7,1633,Urbano,9.0
+9900,Guadalupe,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,2,7,1637,Urbano,9.0
+9900,San Antonio,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,2,7,1638,Urbano,9.0
+9900,San Lorenzo,Barrio,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,2,7,1639,Urbano,9.0
+9910,La Esperanza,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1640,Urbano,9.0
+9920,José López Portillo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1643,Urbano,9.0
+9930,El Rosario,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1644,Urbano,9.0
+9940,Jardines de San Lorenzo Tezonco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1645,Urbano,9.0
+9960,Celoalliotli,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1646,Urbano,9.0
+9960,USCOVI,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1647,Urbano,9.0
+9960,El Molino Tezonco,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1648,Urbano,9.0
+9960,Allapetlalli,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1961,Urbano,9.0
+9960,La Planta,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,2736,Urbano,9.0
+9969,Cananea,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1651,Urbano,9.0
+9970,Valle de San Lorenzo,Colonia,Iztapalapa,Ciudad de México,Ciudad de México,9291,9,9291,,9,7,1652,Urbano,9.0
+10000,Lomas Quebradas,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1672,Urbano,10.0
+10010,La Malinche,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1673,Urbano,10.0
+10010,San Bartolo Ameyalco,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1674,Urbano,10.0
+10020,Cuauhtémoc,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1675,Urbano,10.0
+10130,El Maestro,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10101,9,10101,,9,8,1681,Urbano,10.0
+10200,San Jerónimo Lídice,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10701,9,10701,,9,8,1682,Urbano,10.0
+10300,San Bernabé Ocotepec,Pueblo,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,28,8,1686,Urbano,10.0
+10320,El Tanque,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1690,Urbano,10.0
+10330,Las Cruces,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1691,Urbano,10.0
+10340,Los Padres,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1692,Urbano,10.0
+10350,Lomas de San Bernabé,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1693,Urbano,10.0
+10360,Huayatla,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1694,Urbano,10.0
+10368,Ampliación Potrerillo,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1695,Urbano,10.0
+10369,Ampliación Lomas de San Bernabé,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1696,Urbano,10.0
+10369,Tierra Unida,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,2669,Urbano,10.0
+10370,Palmas,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1697,Urbano,10.0
+10378,Atacaxco,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1698,Urbano,10.0
+10379,Vista Hermosa,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1700,Urbano,10.0
+10380,Barros Sierra,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10021,9,10021,,9,8,1701,Urbano,10.0
+10400,San Jerónimo Aculco,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10701,9,10701,,9,8,1702,Urbano,10.0
+10500,Barrio San Francisco,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1703,Urbano,10.0
+10580,Barranca Seca,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1707,Urbano,10.0
+10600,El Rosal,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1710,Urbano,10.0
+10610,El Toro,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1713,Urbano,10.0
+10620,Potrerillo,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1714,Urbano,10.0
+10630,El Ocotal,Campamento,La Magdalena Contreras,Ciudad de México,,10581,9,10581,,4,8,2706,Urbano,
+10640,La Carbonera,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1716,Urbano,10.0
+10640,Pueblo Nuevo Alto,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1717,Urbano,10.0
+10640,Pueblo Nuevo Bajo,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1718,Urbano,10.0
+10660,El Ermitaño,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1720,Urbano,10.0
+10700,Héroes de Padierna,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10701,9,10701,,9,8,1721,Urbano,10.0
+10710,Santa Teresa,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,9,8,1723,Urbano,10.0
+10800,La Cruz,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1728,Urbano,10.0
+10810,San Francisco,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,9,8,1730,Urbano,10.0
+10820,La Guadalupe,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,9,8,1731,Urbano,10.0
+10830,La Concepción,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,9,8,1732,Urbano,10.0
+10840,Las Calles,Barrio,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,2,8,1733,Urbano,10.0
+10840,Plazuela del Pedregal,Barrio,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,2,8,1734,Urbano,10.0
+10900,San Nicolás Totolapan,Pueblo,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,28,8,1735,Urbano,10.0
+10910,La Magdalena,Pueblo,La Magdalena Contreras,Ciudad de México,Ciudad de México,10581,9,10581,,28,8,1737,Urbano,10.0
+10920,Las Huertas,Colonia,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,9,8,1738,Urbano,10.0
+10926,Tierra Colorada,Campamento,La Magdalena Contreras,Ciudad de México,Ciudad de México,10901,9,10901,,4,8,1739,Urbano,10.0
+11000,Lomas de Chapultepec I Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1745,Urbano,11.0
+11000,Lomas de Chapultepec VIII Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2774,Urbano,11.0
+11000,Lomas de Chapultepec II Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2775,Urbano,11.0
+11000,Lomas de Chapultepec III Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2776,Urbano,11.0
+11000,Lomas de Chapultepec IV Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2777,Urbano,11.0
+11000,Lomas de Chapultepec V Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2778,Urbano,11.0
+11000,Lomas de Chapultepec VI Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2779,Urbano,11.0
+11000,Lomas de Chapultepec VII Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2780,Urbano,11.0
+11040,Molino del Rey,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1752,Urbano,11.0
+11100,Bosque de Chapultepec II Sección,Equipamiento,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,17,16,1754,Urbano,11.0
+11100,Bosque de Chapultepec III Sección,Equipamiento,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,17,16,2772,Urbano,11.0
+11200,Lomas Hermosa,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1757,Urbano,11.0
+11200,Lomas de Sotelo,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1758,Urbano,11.0
+11210,San Lorenzo Tlaltenango,Pueblo,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,28,16,1761,Urbano,11.0
+11220,Periodista,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1764,Urbano,11.0
+11230,Argentina Poniente,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1765,Urbano,11.0
+11240,Ignacio Manuel Altamirano,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1767,Urbano,11.0
+11250,10 de Abril,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1768,Urbano,11.0
+11260,México Nuevo,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1770,Urbano,11.0
+11260,San Joaquín,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1771,Urbano,11.0
+11270,Argentina Antigua,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1772,Urbano,11.0
+11280,Torre Blanca,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1773,Urbano,11.0
+11289,Ampliación Torre Blanca,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1774,Urbano,11.0
+11290,Huíchapan,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1775,Urbano,11.0
+11290,San Diego Ocoyoacac,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1776,Urbano,11.0
+11300,Verónica Anzures,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1777,Urbano,11.0
+11310,Mariano Escobedo,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1780,Urbano,11.0
+11320,Anáhuac I Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1782,Urbano,11.0
+11320,Anáhuac II Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,2771,Urbano,11.0
+11330,Un Hogar Para Nosotros,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1784,Urbano,11.0
+11340,Santo Tomas,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1785,Urbano,11.0
+11350,Plutarco Elías Calles,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1786,Urbano,11.0
+11360,Agricultura,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1787,Urbano,11.0
+11370,Tlaxpana,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1789,Urbano,11.0
+11400,Popotla,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1791,Urbano,11.0
+11410,Legaria,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1793,Urbano,11.0
+11410,Tacuba,Pueblo,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,28,16,1794,Urbano,11.0
+11420,Nextitla,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1796,Urbano,11.0
+11430,Pensil Norte,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1797,Urbano,11.0
+11430,Ventura Pérez de Alva,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1798,Urbano,11.0
+11440,Reforma Pensil,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1799,Urbano,11.0
+11440,San Juanico,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1800,Urbano,11.0
+11450,Ahuehuetes Anáhuac,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1801,Urbano,11.0
+11450,Modelo Pensil,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1802,Urbano,11.0
+11450,Peralitos,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1803,Urbano,11.0
+11460,Dos Lagos,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1804,Urbano,11.0
+11460,Lago Norte,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1805,Urbano,11.0
+11460,Lago Sur,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1806,Urbano,11.0
+11460,Los Manzanos,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1807,Urbano,11.0
+11470,5 de Mayo,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1808,Urbano,11.0
+11470,Deportivo Pensil,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1809,Urbano,11.0
+11480,Francisco I Madero,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1811,Urbano,11.0
+11480,Popo,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1812,Urbano,11.0
+11489,Ampliación Popo,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1813,Urbano,11.0
+11490,Cuauhtémoc Pensil,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1814,Urbano,11.0
+11490,Pensil Sur,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11411,9,11411,,9,16,1815,Urbano,11.0
+11500,Irrigación,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,1816,Urbano,11.0
+11510,Polanco I Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,2781,Urbano,11.0
+11520,Granada,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,1822,Urbano,11.0
+11529,Ampliación Granada,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,1823,Urbano,11.0
+11530,Polanco II Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,2782,Urbano,11.0
+11540,Polanco III Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,2783,Urbano,11.0
+11550,Polanco IV Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,2784,Urbano,11.0
+11560,Polanco V Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,2785,Urbano,11.0
+11570,Chapultepec Morales,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,1,Urbano,11.0
+11580,Bosque de Chapultepec I Sección,Equipamiento,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,17,16,1833,Urbano,11.0
+11590,Anzures,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11591,9,11591,,9,16,1838,Urbano,11.0
+11600,Residencial Militar,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1843,Urbano,11.0
+11610,Manuel Ávila Camacho,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1844,Urbano,11.0
+11619,Campo Militar 1,Equipamiento,Miguel Hidalgo,Ciudad de México,Ciudad de México,53001,9,53001,,17,16,1846,Urbano,11.0
+11650,Reforma Social,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1855,Urbano,11.0
+11700,Bosque de las Lomas,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1856,Urbano,11.0
+11800,Escandón I Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1858,Urbano,11.0
+11800,Escandón II Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2773,Urbano,11.0
+11810,16 de Septiembre,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1860,Urbano,11.0
+11820,América,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1861,Urbano,11.0
+11830,Daniel Garza,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1862,Urbano,11.0
+11840,Ampliación Daniel Garza,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1863,Urbano,11.0
+11850,San Miguel Chapultepec I Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1864,Urbano,11.0
+11850,San Miguel Chapultepec II Sección,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2786,Urbano,11.0
+11860,Observatorio,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1865,Urbano,11.0
+11870,Tacubaya,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1867,Urbano,11.0
+11910,Lomas de Bezares,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1869,Urbano,11.0
+11920,Real de las Lomas,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1870,Urbano,11.0
+11930,Lomas de Reforma,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,2789,Urbano,11.0
+11950,Lomas Altas,Colonia,Miguel Hidalgo,Ciudad de México,Ciudad de México,11801,9,11801,,9,16,1874,Urbano,11.0
+12000,La Concepción,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1877,Urbano,12.0
+12000,La Luz,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1878,Urbano,12.0
+12000,Los Ángeles,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1879,Urbano,12.0
+12000,San Mateo,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1881,Urbano,12.0
+12000,Santa Cruz,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1882,Urbano,12.0
+12000,Santa Martha,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1883,Urbano,12.0
+12000,Villa Milpa Alta Centro,Colonia,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,9,9,1884,Urbano,12.0
+12070,San Agustin,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1889,Urbano,12.0
+12080,San Agustin Ohtenco,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1890,Urbano,12.0
+12100,Cruztitla,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1891,Urbano,12.0
+12100,Tecaxtitla,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1893,Urbano,12.0
+12100,Tenantitla,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1894,Urbano,12.0
+12100,Xaltipac,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1895,Urbano,12.0
+12100,Xochitepec,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1896,Urbano,12.0
+12110,Emiliano Zapata,Colonia,Milpa Alta,Ciudad de México,Ciudad de México,13611,9,13611,,9,9,2010,Urbano,12.0
+12110,La Conchita,Colonia,Milpa Alta,Ciudad de México,Ciudad de México,13611,9,13611,,9,9,2011,Urbano,12.0
+12200,Nochtla,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1897,Urbano,12.0
+12200,Ocotitla,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1898,Urbano,12.0
+12200,Panchimalco,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1899,Urbano,12.0
+12200,Tula,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1901,Urbano,12.0
+12250,San Bartolomé Xicomulco,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1903,Urbano,12.0
+12300,San Salvador Cuauhtenco,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1904,Urbano,12.0
+12400,Centro,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1905,Urbano,12.0
+12400,San Juan,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1906,Urbano,12.0
+12400,San Miguel,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1907,Urbano,12.0
+12410,Chalmita,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,2870,Urbano,12.0
+12500,San Lorenzo Tlacoyucan,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1910,Urbano,12.0
+12600,San Jerónimo Miacatlán,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1911,Urbano,12.0
+12700,San Francisco Tecoxpa,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1912,Urbano,12.0
+12800,San Juan Tepenahuac,Pueblo,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,28,9,1913,Urbano,12.0
+12910,La Lupita Teticpac,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,2871,Urbano,12.0
+12920,San Marcos,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,1880,Urbano,12.0
+12930,San Miguel,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,2873,Urbano,12.0
+12940,San José,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,2874,Urbano,12.0
+12950,La Lupita Xolco,Barrio,Milpa Alta,Ciudad de México,Ciudad de México,12001,9,12001,,2,9,2872,Urbano,12.0
+13000,La Asunción,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1919,Urbano,13.0
+13010,Santa Cecilia,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1923,Urbano,13.0
+13020,San José,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1924,Urbano,13.0
+13030,San Juan,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1925,Urbano,13.0
+13040,San Mateo,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1926,Urbano,13.0
+13050,La Habana,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1928,Urbano,13.0
+13060,Santa Ana,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1930,Urbano,13.0
+13060,La Guadalupe,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1929,Urbano,13.0
+13070,La Magdalena,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1931,Urbano,13.0
+13070,San Miguel,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1932,Urbano,13.0
+13080,Los Reyes,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1933,Urbano,13.0
+13090,Quiahuatla,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1934,Urbano,13.0
+13093,San Sebastián,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,2497,Urbano,13.0
+13094,San Isidro,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,2898,Urbano,13.0
+13099,San Andrés,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1935,Urbano,13.0
+13100,La Guadalupe,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1937,Urbano,13.0
+13120,Ampliación Santa Catarina,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1942,Urbano,13.0
+13120,Santiago,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1943,Urbano,13.0
+13150,La Concepción,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1945,Urbano,13.0
+13180,San Miguel,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1946,Urbano,13.0
+13200,Miguel Hidalgo,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1947,Urbano,13.0
+13210,Los Olivos,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1949,Urbano,13.0
+13219,Las Arboledas,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1950,Urbano,13.0
+13219,Ampliación Los Olivos,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1951,Urbano,13.0
+13220,La Nopalera,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1952,Urbano,13.0
+13230,Granjas Cabrera,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1955,Urbano,13.0
+13250,La Turba,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1957,Urbano,13.0
+13270,Del Mar,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1958,Urbano,13.0
+13273,La Draga,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,2580,Urbano,13.0
+13278,Villa Centroamericana,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1959,Urbano,13.0
+13280,Agrícola Metropolitana,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1962,Urbano,13.0
+13300,Santa Ana Centro,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,1963,Urbano,13.0
+13300,Santiago Centro,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,1964,Urbano,13.0
+13300,Santa Ana Poniente,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,2891,Urbano,13.0
+13300,Santa Ana Norte,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,2893,Urbano,13.0
+13300,Santiago Norte,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,2894,Urbano,13.0
+13310,Zapotitla,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1966,Urbano,13.0
+13315,Ampliación Zapotitla,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,2897,Urbano,13.0
+13319,La Estación,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1970,Urbano,13.0
+13360,La Conchita Zapotitlán,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,9,11,1971,Urbano,13.0
+13360,Santa Ana Sur,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,2895,Urbano,13.0
+13360,Santiago Sur,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13221,9,13221,,2,11,2896,Urbano,13.0
+13400,San Francisco Tlaltenco,Pueblo,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,28,11,1972,Urbano,13.0
+13410,López Portillo,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1973,Urbano,13.0
+13419,Ampliación José López Portillo,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1975,Urbano,13.0
+13420,Selene,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1976,Urbano,13.0
+13430,Ampliación Selene,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1978,Urbano,13.0
+13440,Zacatenco,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1980,Urbano,13.0
+13450,Guadalupe Tlaltenco,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1981,Urbano,13.0
+13450,Ojo de Agua,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1982,Urbano,13.0
+13460,El Triángulo,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1983,Urbano,13.0
+13508,San Agustín,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1985,Urbano,13.0
+13508,La Soledad,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,2593,Urbano,13.0
+13509,La Concepción,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,2,11,1986,Urbano,13.0
+13510,La Lupita,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1987,Urbano,13.0
+13520,Francisco Villa,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1988,Urbano,13.0
+13530,Jaime Torres Bodet,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1990,Urbano,13.0
+13530,La Asunción,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1991,Urbano,13.0
+13540,El Rosario,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1992,Urbano,13.0
+13540,Tierra Blanca,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1994,Urbano,13.0
+13545,Ampliación La Conchita,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,2587,Urbano,13.0
+13549,Peña Alta,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1995,Urbano,13.0
+13550,Jardines del Llano,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1997,Urbano,13.0
+13550,Potrero del Llano,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13011,9,13011,,9,11,1998,Urbano,13.0
+13600,San Bartolomé,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,2,11,2002,Urbano,13.0
+13610,Los Reyes,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,2,11,2004,Urbano,13.0
+13625,Santa Cruz,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,2,11,2005,Urbano,13.0
+13630,San Agustín,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,2,11,2007,Urbano,13.0
+13640,San Miguel,Barrio,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,2,11,2008,Urbano,13.0
+13700,San Nicolás Tetelco,Pueblo,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,28,11,2009,Urbano,13.0
+13700,Tepantitlamilco,Colonia,Tláhuac,Ciudad de México,Ciudad de México,13611,9,13611,,9,11,2892,Urbano,13.0
+14000,Tlalpan Centro,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2027,Urbano,14.0
+14000,Tlalpan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2876,Urbano,14.0
+14010,Parque del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2029,Urbano,14.0
+14020,Villa Olímpica,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2035,Urbano,14.0
+14030,Isidro Fabela,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2036,Urbano,14.0
+14039,Ampliación Isidro Fabela,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2041,Urbano,14.0
+14040,Cantera Puente de Piedra,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2042,Urbano,14.0
+14040,Pueblo Quieto,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2043,Urbano,14.0
+14049,Comuneros de Santa Úrsula,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2044,Urbano,14.0
+14050,Toriello Guerra,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2045,Urbano,14.0
+14060,Peña Pobre,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2046,Urbano,14.0
+14070,Rómulo Sánchez Mireles,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2048,Urbano,14.0
+14070,San Fernando,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,2,12,2049,Urbano,14.0
+14070,San Pedro Apóstol,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2050,Urbano,14.0
+14080,Belisario Domínguez Sección XVI,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2051,Urbano,14.0
+14080,Del Niño Jesús,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,2,12,2052,Urbano,14.0
+14090,La Joya,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2054,Urbano,14.0
+14100,Pedregal de San Nicolás 1A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2060,Urbano,14.0
+14100,Pedregal de San Nicolás 2A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2061,Urbano,14.0
+14100,Pedregal de San Nicolás 3A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2062,Urbano,14.0
+14100,Pedregal de San Nicolás 4A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2063,Urbano,14.0
+14100,Pedregal de San Nicolás 5ª Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2064,Urbano,14.0
+14108,Chichicaspatl,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2067,Urbano,14.0
+14110,Ampliación Fuentes del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2881,Urbano,14.0
+14120,Rincón del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2071,Urbano,14.0
+14140,Fuentes del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2074,Urbano,14.0
+14150,Lomas del Pedregal Framboyanes,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2078,Urbano,14.0
+14160,Popular Santa Teresa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2079,Urbano,14.0
+14200,Héroes de Padierna,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2080,Urbano,14.0
+14200,Jardines del Ajusco,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2081,Urbano,14.0
+14208,Colinas del Ajusco,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2083,Urbano,14.0
+14209,Torres de Padierna,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2084,Urbano,14.0
+14210,Jardines en la Montaña,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2085,Urbano,14.0
+14219,Six Flags (Reino Aventura),Equipamiento,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,17,12,2087,Urbano,14.0
+14219,Parque Nacional Bosque del Pedregal,Equipamiento,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,17,12,2187,Urbano,14.0
+14220,Cuchilla de Padierna,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2088,Urbano,14.0
+14220,Lomas del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2090,Urbano,14.0
+14230,Cultura Maya,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2091,Urbano,14.0
+14239,Los Encinos,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2093,Urbano,14.0
+14240,Lomas de Padierna,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2094,Urbano,14.0
+14240,Lomas Hidalgo,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2095,Urbano,14.0
+14248,Cruz del Farol,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2096,Urbano,14.0
+14250,Miguel Hidalgo 2A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2098,Urbano,14.0
+14250,Miguel Hidalgo 3A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2099,Urbano,14.0
+14250,Miguel Hidalgo 4A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2100,Urbano,14.0
+14250,Miguel Hidalgo,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2101,Urbano,14.0
+14260,El Capulín,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,2,12,2102,Urbano,14.0
+14260,Miguel Hidalgo 1A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2103,Urbano,14.0
+14266,Zacayucan Peña Pobre,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2106,Urbano,14.0
+14267,De Caramagüey,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,2,12,2107,Urbano,14.0
+14268,La Lonja,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,2,12,2108,Urbano,14.0
+14269,La Fama,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,2,12,2109,Urbano,14.0
+14270,Primavera,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2110,Urbano,14.0
+14270,Verano,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2112,Urbano,14.0
+14275,Paraje 38,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2111,Urbano,14.0
+14300,Nueva Oriental Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2113,Urbano,14.0
+14300,Residencial Acoxpa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2114,Urbano,14.0
+14300,Residencial Miramontes,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2115,Urbano,14.0
+14308,Ex Hacienda Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2879,Urbano,14.0
+14310,Belisario Domínguez,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2120,Urbano,14.0
+14310,Floresta Coyoacán,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2121,Urbano,14.0
+14320,Vergel Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2123,Urbano,14.0
+14325,Rinconada Coapa 2A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2125,Urbano,14.0
+14326,Tenorios,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2126,Urbano,14.0
+14330,Granjas Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2132,Urbano,14.0
+14330,Rinconada Coapa 1A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2134,Urbano,14.0
+14340,Vergel de Coyoacán,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2145,Urbano,14.0
+14340,Vergel del Sur,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2146,Urbano,14.0
+14350,Prado Coapa 1A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2147,Urbano,14.0
+14357,Prado Coapa 2A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2149,Urbano,14.0
+14357,Prado Coapa 3A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2150,Urbano,14.0
+14360,Magisterial,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2153,Urbano,14.0
+14360,Magisterial Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2877,Urbano,14.0
+14370,Residencial Chimali,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2155,Urbano,14.0
+14370,San Lorenzo Huipulco,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,28,12,2157,Urbano,14.0
+14370,Villa Lázaro Cárdenas,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2158,Urbano,14.0
+14376,Arboledas del Sur,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2159,Urbano,14.0
+14377,Hacienda San Juan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2161,Urbano,14.0
+14380,A.M.S.A,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2163,Urbano,14.0
+14380,San Bartolo El Chico,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2167,Urbano,14.0
+14386,Rancho los Colorines,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2168,Urbano,14.0
+14387,Ex Hacienda San Juan de Dios,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2169,Urbano,14.0
+14388,Guadalupe,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2170,Urbano,14.0
+14389,Arenal de Guadalupe,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2172,Urbano,14.0
+14390,Rinconada Las Hadas,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2174,Urbano,14.0
+14390,Narciso Mendoza,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2175,Urbano,14.0
+14390,Residencial Villa Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2176,Urbano,14.0
+14390,Villa Coapa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14391,9,14391,,9,12,2878,Urbano,14.0
+14400,San Andrés Totoltepec,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2179,Urbano,14.0
+14406,Divisadero,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2182,Urbano,14.0
+14408,Nuevo Renacimiento de Axalco,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2183,Urbano,14.0
+14409,Tecorral,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2184,Urbano,14.0
+14410,Bosques de Tepeximilpa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,1,Urbano,14.0
+14410,Fuentes Brotantes,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2186,Urbano,14.0
+14420,Cumbres de Tepetongo,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2188,Urbano,14.0
+14420,Mesa de los Hornos,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2190,Urbano,14.0
+14420,Santa Úrsula Xitla,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2192,Urbano,14.0
+14426,Texcaltenco,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2194,Urbano,14.0
+14426,Tlaxcaltenco la Mesa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2195,Urbano,14.0
+14427,San Juan Tepeximilpa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2196,Urbano,14.0
+14427,Tepeximilpa la Paz,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2197,Urbano,14.0
+14429,Santísima Trinidad,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2200,Urbano,14.0
+14430,El Truenito,Barrio,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,2,12,2201,Urbano,14.0
+14430,Tlalcoligia,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2203,Urbano,14.0
+14438,Pedregal de Santa Úrsula Xitla,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2205,Urbano,14.0
+14439,Pedregal de las Águilas,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2206,Urbano,14.0
+14440,Los Volcanes,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2207,Urbano,14.0
+14449,El Mirador 1A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2208,Urbano,14.0
+14449,El Mirador 2A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2209,Urbano,14.0
+14449,El Mirador 3A Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2210,Urbano,14.0
+14456,Actopa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2,Urbano,14.0
+14456,Actopa Sur,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,3,Urbano,14.0
+14460,Tlalpuente,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2213,Urbano,14.0
+14470,Plan de Ayala,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2214,Urbano,14.0
+14476,La Palma,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2216,Urbano,14.0
+14479,Viveros Coatectlán,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2219,Urbano,14.0
+14480,La Magdalena Petlacalco,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2220,Urbano,14.0
+14490,San Miguel Xicalco,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2221,Urbano,14.0
+14500,San Miguel Topilejo,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2222,Urbano,14.0
+14600,Valle Escondido,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2229,Urbano,14.0
+14608,Colinas del Bosque,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2231,Urbano,14.0
+14609,Las Tórtolas,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2232,Urbano,14.0
+14610,Arenal Tepepan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2233,Urbano,14.0
+14620,Club de Golf México,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2741,Urbano,14.0
+14629,San Buenaventura,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2236,Urbano,14.0
+14630,Chimalcoyoc,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2237,Urbano,14.0
+14630,Villa Tlalpan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2238,Urbano,14.0
+14640,Ejidos de San Pedro Mártir,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2240,Urbano,14.0
+14643,Tecoantitla Xolalpa,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,5,Urbano,14.0
+14643,Fuentes de Tepepan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2241,Urbano,14.0
+14646,Valle de Tepepan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2245,Urbano,14.0
+14647,Juventud Unida,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2246,Urbano,14.0
+14647,Movimiento Organizado de Tlalpan,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2247,Urbano,14.0
+14647,Rinconada El Mirador,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2880,Urbano,14.0
+14650,San Pedro Mártir,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2252,Urbano,14.0
+14653,Heróico Colegio Militar,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2882,Urbano,14.0
+14654,Dolores Tlalli,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2453,Urbano,14.0
+14655,Valle Verde,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2256,Urbano,14.0
+14657,Tlalmille,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2258,Urbano,14.0
+14658,Mirador del Valle,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2259,Urbano,14.0
+14659,María Esther Zuno de Echeverría,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,9,12,2260,Urbano,14.0
+14700,San Miguel Ajusco,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,28,12,2261,Urbano,14.0
+14710,Santo Tomas Ajusco,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,28,12,2262,Urbano,14.0
+14720,Belvedere Ajusco,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2263,Urbano,14.0
+14730,Lomas de Cuilotepec,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2265,Urbano,14.0
+14734,El Zacatón,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2266,Urbano,14.0
+14735,Lomas de Cuilotepec II Sección,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,4,Urbano,14.0
+14735,Lomas de Tepemecatl,Campamento,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,4,12,2695,Rural,14.0
+14737,Vistas del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2268,Urbano,14.0
+14738,Bosques del Pedregal,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2269,Urbano,14.0
+14739,2 de Octubre,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2270,Urbano,14.0
+14740,Lomas de Padierna Sur,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2272,Urbano,14.0
+14748,Mirador I,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2273,Urbano,14.0
+14748,Mirador II,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2274,Urbano,14.0
+14749,Chimilli,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2275,Urbano,14.0
+14760,Héroes de 1910,Colonia,Tlalpan,Ciudad de México,Ciudad de México,14201,9,14201,,9,12,2278,Urbano,14.0
+14900,Parres El Guarda,Pueblo,Tlalpan,Ciudad de México,Ciudad de México,14091,9,14091,,28,12,2286,Urbano,14.0
+15000,General Ignacio Zaragoza,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2287,Urbano,15.0
+15010,Valentín Gómez Farias,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2289,Urbano,15.0
+15020,Puebla,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2290,Urbano,15.0
+15100,Zona Centro,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2291,Urbano,15.0
+15200,Janitzio,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2293,Urbano,15.0
+15210,Valle Gómez,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2294,Urbano,15.0
+15220,Nicolás Bravo,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2295,Urbano,15.0
+15220,Popular Rastro,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2296,Urbano,15.0
+15230,Emilio Carranza,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2297,Urbano,15.0
+15240,Michoacana,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2298,Urbano,15.0
+15250,Ampliación Michoacana,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2299,Urbano,15.0
+15260,Ampliación 20 de Noviembre,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2300,Urbano,15.0
+15270,Morelos,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2301,Urbano,15.0
+15280,Penitenciaria,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2302,Urbano,15.0
+15290,10 de Mayo,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2303,Urbano,15.0
+15300,20 de Noviembre,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2305,Urbano,15.0
+15309,5o Tramo 20 de Noviembre,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2307,Urbano,15.0
+15310,Felipe Ángeles,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2308,Urbano,15.0
+15320,Azteca,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2309,Urbano,15.0
+15330,Tres Mosqueteros,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2310,Urbano,15.0
+15339,Ampliación Venustiano Carranza,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2311,Urbano,15.0
+15340,Venustiano Carranza,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2312,Urbano,15.0
+15350,Ampliación Penitenciaria,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2313,Urbano,15.0
+15370,Progresista,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2315,Urbano,15.0
+15380,Escuela de Tiro,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2316,Urbano,15.0
+15390,7 de Julio,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2319,Urbano,15.0
+15400,Romero Rubio,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2320,Urbano,15.0
+15410,Simón Bolívar,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2321,Urbano,15.0
+15420,Ampliación Simón Bolívar,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2322,Urbano,15.0
+15430,Aquiles Serdán,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2323,Urbano,15.0
+15440,1° de Mayo,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2324,Urbano,15.0
+15450,Damián Carmona,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2325,Urbano,15.0
+15460,Revolución,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2326,Urbano,15.0
+15470,Miguel Hidalgo,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2327,Urbano,15.0
+15500,Moctezuma 1a Sección,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2328,Urbano,15.0
+15510,Pensador Mexicano,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2330,Urbano,15.0
+15520,Peñón de los Baños,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2331,Urbano,15.0
+15530,Moctezuma 2a Sección,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2332,Urbano,15.0
+15540,Santa Cruz Aviación,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2333,Urbano,15.0
+15600,Arenal 1a Sección,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2334,Urbano,15.0
+15610,Cuchilla Pantitlán,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2335,Urbano,15.0
+15620,México (Licenciado Benito Juárez),Aeropuerto,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,1,17,2336,Urbano,15.0
+15630,Caracol,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2340,Urbano,15.0
+15640,Arenal 4a Sección,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2342,Urbano,15.0
+15640,Arenal Puerto Aéreo,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2351,Urbano,15.0
+15650,Ampliación Caracol,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2343,Urbano,15.0
+15660,Arenal 3a Sección,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2344,Urbano,15.0
+15670,Adolfo López Mateos,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2346,Urbano,15.0
+15680,Arenal 2a Sección,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2347,Urbano,15.0
+15700,Federal,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2349,Urbano,15.0
+15710,Industrial Puerto Aéreo,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2350,Urbano,15.0
+15730,4 Árboles,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2353,Urbano,15.0
+15740,Aviación Civil,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2354,Urbano,15.0
+15750,Ampliación Aviación Civil,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2355,Urbano,15.0
+15800,Jamaica,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2356,Urbano,15.0
+15810,Merced Balbuena,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2358,Urbano,15.0
+15820,Lorenzo Boturini,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2359,Urbano,15.0
+15830,Artes Gráficas,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2360,Urbano,15.0
+15840,Sevilla,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2361,Urbano,15.0
+15850,Magdalena Mixiuhca,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2362,Urbano,15.0
+15860,La Magdalena Mixiuhca,Pueblo,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,28,17,2363,Urbano,15.0
+15870,Aarón Sáenz,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2364,Urbano,15.0
+15900,Jardín Balbuena,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2365,Urbano,15.0
+15960,Del Parque,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2372,Urbano,15.0
+15970,Aeronáutica Militar,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2376,Urbano,15.0
+15980,24 de Abril,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2377,Urbano,15.0
+15990,Álvaro Obregón,Colonia,Venustiano Carranza,Ciudad de México,Ciudad de México,15001,9,15001,,9,17,2378,Urbano,15.0
+16000,La Concepción Tlacoapa,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2379,Urbano,16.0
+16000,San Antonio,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2380,Urbano,16.0
+16000,San Juan,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2381,Urbano,16.0
+16010,Bosque Residencial del Sur,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2385,Urbano,16.0
+16010,Las Peritas,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2386,Urbano,16.0
+16010,Paseos del Sur,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2388,Urbano,16.0
+16010,San Bartolo El Chico,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2832,Urbano,16.0
+16020,San Juan Tepepan,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2395,Urbano,16.0
+16020,Santa María Tepepan,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2396,Urbano,16.0
+16029,Ampliación Tepepan,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2399,Urbano,16.0
+16030,Huichapan,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2401,Urbano,16.0
+16030,La Noria,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2402,Urbano,16.0
+16030,Potrero de San Bernardino,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2403,Urbano,16.0
+16030,Ampliación La Noria,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2919,Urbano,16.0
+16034,18,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2405,Urbano,16.0
+16035,San Lorenzo La Cebada,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2407,Urbano,16.0
+16035,Rinconada Coapa,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2833,Urbano,16.0
+16036,Mercado de Flores Plantas y Hortalizas,Equipamiento,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,17,13,2408,Urbano,16.0
+16038,Ampliación San Marcos Norte,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2409,Urbano,16.0
+16040,La Asunción,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2411,Urbano,16.0
+16040,San Lorenzo,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2412,Urbano,16.0
+16050,Jardines del Sur,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2413,Urbano,16.0
+16050,San Marcos,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2414,Urbano,16.0
+16050,Tierra Nueva,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2415,Urbano,16.0
+16059,"Pueblo Santiago Tepalcatlalpan, U.H. Rinconada del Sur",Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2420,Urbano,16.0
+16060,El Mirador,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2421,Urbano,16.0
+16070,Belén,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2423,Urbano,16.0
+16070,El Rosario,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2424,Urbano,16.0
+16070,La Guadalupita,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2425,Urbano,16.0
+16070,Santa Crucita,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2426,Urbano,16.0
+16080,La Santísima,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2427,Urbano,16.0
+16080,San Cristóbal,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2428,Urbano,16.0
+16080,San Diego,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2429,Urbano,16.0
+16080,San Esteban,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2430,Urbano,16.0
+16083,Caltongo,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2431,Urbano,16.0
+16090,San Pedro,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2432,Urbano,16.0
+16090,Tablas de San Lorenzo,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2433,Urbano,16.0
+16090,Xaltocan,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2434,Urbano,16.0
+16100,Santa Cruz Xochitepec,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2439,Urbano,16.0
+16200,Santiago Tepalcatlalpan,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2443,Urbano,16.0
+16210,Pueblo Santiago Tepalcatlalpan U.H. Res. Santiago,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2,Urbano,16.0
+16210,La Concha,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2444,Urbano,16.0
+16240,Tlaxopan,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2446,Urbano,16.0
+16300,San Lucas Xochimanca,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2458,Urbano,16.0
+16310,La Cañada,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2459,Urbano,16.0
+16320,San Lucas Oriente,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2460,Urbano,16.0
+16340,Texmic,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2462,Urbano,16.0
+16400,San Lorenzo Atemoaya,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2464,Urbano,16.0
+16410,Lomas de Tonalco,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2465,Urbano,16.0
+16420,San Jerónimo,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2466,Urbano,16.0
+16428,El Jazmín,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2467,Urbano,16.0
+16429,Rancho Tejomulco,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2468,Urbano,16.0
+16430,Xochipilli,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2470,Urbano,16.0
+16440,Año de Juárez,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2471,Urbano,16.0
+16443,Pocitos,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2899,Urbano,16.0
+16450,Santa María Nativitas,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2472,Urbano,16.0
+16457,Lomas de Nativitas,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2480,Urbano,16.0
+16459,Ampliación Nativitas,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2473,Urbano,16.0
+16500,Santa Cruz Acalpixca,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2475,Urbano,16.0
+16513,Apatlaco,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2900,Urbano,16.0
+16513,Del Puente,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2901,Urbano,16.0
+16514,La Gallera,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2902,Urbano,16.0
+16514,Tetitla,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2903,Urbano,16.0
+16514,Calpulco,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2904,Urbano,16.0
+16520,La Planta,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2478,Urbano,16.0
+16530,Las Cruces,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2479,Urbano,16.0
+16530,Las Flores,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2834,Urbano,16.0
+16533,Ahualapa,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2905,Urbano,16.0
+16550,Valle de Santa María,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2481,Urbano,16.0
+16600,San Gregorio Atlapulco,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2482,Urbano,16.0
+16604,San Andrés,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2906,Urbano,16.0
+16605,Los Reyes,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2907,Urbano,16.0
+16606,3 de Mayo,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2908,Urbano,16.0
+16607,San Antonio,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2909,Urbano,16.0
+16609,La Candelaria,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2483,Urbano,16.0
+16610,San Luis Tlaxialtemalco,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2484,Urbano,16.0
+16614,Niños Héroes,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2910,Urbano,16.0
+16615,La Asunción,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2911,Urbano,16.0
+16616,Santa Cecilia,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2913,Urbano,16.0
+16617,San Sebastián,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2912,Urbano,16.0
+16620,San José,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2485,Urbano,16.0
+16629,La Guadalupana,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2487,Urbano,16.0
+16629,San Juan,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2489,Urbano,16.0
+16630,San Juan Moyotepec,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2490,Urbano,16.0
+16640,San Juan Minas,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2491,Urbano,16.0
+16710,Quirino Mendoza,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2494,Urbano,16.0
+16720,Del Carmen,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2495,Urbano,16.0
+16739,San Isidro,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2498,Urbano,16.0
+16740,Guadalupita,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2499,Urbano,16.0
+16749,Las Animas,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2500,Urbano,16.0
+16750,Calyequita,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2501,Urbano,16.0
+16770,San Felipe,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2502,Urbano,16.0
+16776,Santiaguito,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2503,Urbano,16.0
+16776,El Mirador,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2600,Urbano,16.0
+16780,Cerrillos Primera Sección,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2504,Urbano,16.0
+16780,El Sacrificio,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2602,Urbano,16.0
+16780,Cristo Rey,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2604,Urbano,16.0
+16780,Cerrillos Segunda Sección,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2835,Urbano,16.0
+16780,Cerrillos Tercera Sección,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2836,Urbano,16.0
+16797,Nativitas,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2508,Urbano,16.0
+16799,Las Mesitas,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2509,Urbano,16.0
+16800,San Mateo Xalpa,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2510,Urbano,16.0
+16810,San Andrés Ahuayucan,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2515,Urbano,16.0
+16810,Santa Inés,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2516,Urbano,16.0
+16810,Rosario Tlali,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2607,Urbano,16.0
+16813,El Calvario,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2914,Urbano,16.0
+16840,Santa Cruz Chavarrieta,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2519,Urbano,16.0
+16850,Chapultepec,Barrio,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,2,13,2520,Urbano,16.0
+16860,Santa Cruz de Guadalupe,Colonia,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,9,13,2521,Urbano,16.0
+16880,Santa Cecilia Tepetlapa,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2527,Urbano,16.0
+16900,San Francisco Tlalnepantla,Pueblo,Xochimilco,Ciudad de México,Ciudad de México,16001,9,16001,,28,13,2530,Urbano,16.0
