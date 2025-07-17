@@ -128,7 +128,7 @@ class LoadData:
             )
         return df_copy
     
-    def load_original_datasets(self) -> Dict[str, pd.DataFrame]:
+    def load_original_datasets(self, normalize: bool = True) -> Dict[str, pd.DataFrame]:
         """
         Carga los datasets originales sin ninguna modificación.
         
@@ -136,11 +136,15 @@ class LoadData:
             Diccionario de DataFrames originales por año
         """
         datasets = {}
+
         
         for year in self.available_years:
             file_path = os.path.join(self.data_dir, f"coordenadas_sustentantes_{year}.csv")
             try:
-                datasets[f"df_coordenadas_sustentantes_{year}"] = pd.read_csv(file_path)
+                df = pd.read_csv(file_path, encoding="utf-8")
+                if normalize:
+                    df = self._normalize_text_columns(df, ["SUS_COL", "SUS_DEL", "NOM_ENT"])
+                datasets[f"df_coordenadas_sustentantes_{year}"] = df
             except FileNotFoundError:
                 print(f"Advertencia: No se encontró el archivo {file_path}")
                 
